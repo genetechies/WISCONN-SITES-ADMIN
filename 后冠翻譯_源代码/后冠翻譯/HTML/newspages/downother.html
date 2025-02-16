@@ -1,0 +1,42 @@
+﻿<div id="link_list_box"><div class="content-bottom">
+<div class="service125"><a href="../related/index.aspx">友好連結</a></div>
+<img src="../images/line.jpg"  style="margin-left:6px;"/>
+<div style=" clear:both">&nbsp;</div>
+<div style="border:1px solid #666;width:923px; margin:0 auto;"><table style='border:0px;'><tr><td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://123' target='_blank' title='123'><span class='fontstyle'>123</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://123' target='_blank' title='123'><span class='fontstyle'>123</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://123' target='_blank' title='123'><span class='fontstyle'>123</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.chinese-translationservices.com' target='_blank' title='professional translation services'><span class='fontstyle'>professional translation services</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.chinese-translationservices.com' target='_blank' title='document translation services'><span class='fontstyle'>document translation services</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.chinese-translationservices.com' target='_blank' title='chinese  translation services'><span class='fontstyle'>chinese  translation services</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.chinese-translationservices.com' target='_blank' title='cheap translation services'><span class='fontstyle'>cheap translation services</span></a></div></td> </tr><tr><td style='border:0px;' align='center'><div class='icon1'><a href='http://www.translations.com.tw' target='_blank' title='韓文翻譯'><span class='fontstyle'>韓文翻譯</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.translations.com.tw' target='_blank' title='日文翻譯'><span class='fontstyle'>日文翻譯</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.translations.com.tw' target='_blank' title='英文翻譯'><span class='fontstyle'>英文翻譯</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.translations.com.tw' target='_blank' title='翻譯公司'><span class='fontstyle'>翻譯公司</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.houguan-translation-services.com' target='_blank' title='韓文翻譯'><span class='fontstyle'>韓文翻譯</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.houguan-translation-services.com' target='_blank' title='日文翻譯'><span class='fontstyle'>日文翻譯</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.houguan-translation-services.com' target='_blank' title='英文翻譯'><span class='fontstyle'>英文翻譯</span></a></div></td> </tr><tr><td style='border:0px;' align='center'><div class='icon1'><a href='http://www.houguan-translation-services.com' target='_blank' title='翻譯公司'><span class='fontstyle'>翻譯公司</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.wisconn.com.tw' target='_blank' title='連接器'><span class='fontstyle'>連接器</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.x-marketing.com.tw' target='_blank' title='國際行銷公司'><span class='fontstyle'>國際行銷公司</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.translations.com.tw' target='_blank' title='翻譯公司'><span class='fontstyle'>翻譯公司</span></a></div></td> <td  style='border:0px;width:135px;' align='center'><div class='icon1'><a href='http://www.houguan-translation-services.com' target='_blank' title='翻譯公司'><span class='fontstyle'>翻譯公司</span></a></div></td> </tr></table></div>
+</div>
+
+</div><script type="text/javascript">
+                var baseRows = 3;
+                function showOrHidden(obj, height) {
+                    if (obj.clientHeight < height) {
+                        obj.style.height = (parseInt(obj.style.height.replace("px", "") || obj.clientHeight) + 1) + "px";
+                        if (obj.clientHeight >= height) return;
+                    } else {
+                        obj.style.height = (parseInt(obj.style.height.replace("px", "") || obj.clientHeight) - 1) + "px";
+                        if (obj.clientHeight <= height) return;
+                    }
+                    setTimeout(function () { showOrHidden(obj, height); }, 5);
+                }
+                function setHiddenLink() {
+                    var ele = document.getElementById("link_list_box").children, di = null, baseHeight = 0;
+                    for (var i = 0; i < ele.length; i++) {
+                        di = ele[i].children[ele[i].children.length-1]; baseHeight = 0;
+                        if (di.children[0].rows.length <= baseRows) break;
+                        baseHeight = di.children[0].rows[baseRows].cells[0].offsetTop - 1;
+                        if (baseHeight <= 0) { window.setTimeout(setHiddenLink, 5); return; }
+                        di.style.overflow = "hidden"; di.style.height = baseHeight + "px";
+                        var clickEvent = (function (di, bh) {
+                            return function () {
+                                if (di.scrollHeight > di.clientHeight) showOrHidden(di, di.scrollHeight);
+                                else showOrHidden(di, bh);
+                            };
+                        })(di, baseHeight);
+                        if (di.addEventListener) {
+                            di.addEventListener("click", clickEvent, false);
+                        } else if (di.attachEvent) {
+                            di.attachEvent("onclick", clickEvent);
+                        } else di.onclick = clickEvent;
+                    }
+                }
+                setHiddenLink("link_index");
+</script>

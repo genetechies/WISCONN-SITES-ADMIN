@@ -1,0 +1,50 @@
+using System.Data;
+using DAL;
+using Model;
+
+namespace BLL;
+
+public class TranslatorList
+{
+	private readonly DAL.TranslatorList dal = new DAL.TranslatorList();
+
+	public Model.TranslatorList GetModel(int G_Id)
+	{
+		return dal.GetModel(G_Id);
+	}
+
+	public void Add(Model.TranslatorList model)
+	{
+		dal.Add(model);
+	}
+
+	public void UpdateIsFinish(int G_Id, int isfinish)
+	{
+		dal.UpdateIsFinish(G_Id, isfinish);
+	}
+
+	public int Count()
+	{
+		return dal.Count();
+	}
+
+	public DataSet GetList(string strWhere)
+	{
+		return dal.GetList(strWhere);
+	}
+
+	public DataSet GetAllList()
+	{
+		return GetList("");
+	}
+
+	public DataSet GetoutList()
+	{
+		return dal.GetoutList("");
+	}
+
+	public void Delete(int G_Id)
+	{
+		dal.Delete(G_Id);
+	}
+}

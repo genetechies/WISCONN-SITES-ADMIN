@@ -1,0 +1,283 @@
+body {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+div {
+	margin: 0px; padding: 0px;
+}
+img {
+	margin: 0px; padding: 0px;
+}
+a {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+body {
+	margin: 0px auto; width: 955px; font-family: "ÐÂ?Ã÷ów"; font-size: 12px;
+}
+
+.nav {
+	width: 955px;
+}
+.ban {
+	width: 955px;
+}
+.bottom {
+	width: 955px;
+}
+.red {
+	color: rgb(204, 51, 0); font-weight: bold;
+}
+.blue {
+	color: rgb(0, 0, 153); font-weight: bold;
+}
+.en {
+	font-family: "Verdana";
+}
+.ch {
+	font-family: "ÐÂ?Ã÷ów";
+}
+/*--î^²¿*/
+.top { height:55px;width: 955px;}
+.top a {
+	font-family: "Verdana";
+}
+.top_nav { width:300px; height:20px; float:right; padding-top:30px; overflow:hidden;}
+.top_nav img { margin-right:15px; border:none; }
+.top_nav a { height:20px; background:url(../images/hg_07.gif) left center no-repeat; margin-right:10px; padding-left:10px; font-size:10px; font-family:"Arial, Helvetica, sans-serif"; color:#666; line-height:20px; text-decoration:none;}
+.top_nav a:link,.top_nav a:visited { text-decoration:none; color:#666;}
+.top_nav a:hover,.top_nav a:active { text-decoration:underline; color:#000;}
+/*---î^²¿½áÊø*/
+
+/*Œ§º½*/
+.nav { height:40px; }
+.nav img { float:left; width:180px; height:40px;}
+.nav .ul_w {width:775px; height:40px; background:#000;}
+.nav ul {  width:955px;  
+height:40px;  background:url(../images/hg_nav_bj1.gif) #333 left top no-repeat; overflow:hidden; }
+.nav ul li { width:95px; height:40px; line-height:42px; font-size:13px;   text-align:center; float:left; list-style:none; font-family:"·s²Ó©úÅé"; }
+.nav ul li a:link,.nav ul li a:visited { color:#FFF; text-decoration:none;}
+.nav ul li a:hover,.nav ul li a:active { color:#FFF; text-decoration:none;}
+/*Œ§º½½áÊø*/
+
+.ban {
+	height: 244px;
+}
+.main {
+	background: url("../images/bj.gif") repeat-y left top; width: 955px; overflow: hidden;
+}
+.main_left { width:195px; float:left; background:#3ca5ba; padding-left:10px;}
+.main_left h2 { width:195px; height:80px; background:url(../images/hg_17.gif) left top no-repeat; overflow:hidden; line-height:999px;}
+.main_left ul { width:195px; /* background:url(../images/hg_19.gif)  left top  no-repeat;*/ }
+.main_left ul li { display:block; margin:0px; padding:0px;background:url(../images/hg_19_li.gif)  left top  no-repeat;  list-style:none; font-family:"·s²Ó©úÅé";/* width:150px; */line-height:31px; padding-left:45px; font-size:13px;}
+.main_left ul li a:link,.main_left ul li a:visited { color:#777777; text-decoration:none;}
+.main_left ul li a:hover,.main_left ul li a:active { color:#333; text-decoration:none; /*font-family:"Verdana"; */font-family:"·s²Ó©úÅé"; }
+.main_right {
+	background: url("../images/right_bj.gif") repeat-x left top; padding: 0px 30px; width: 685px; color: rgb(81, 81, 81); line-height: 20px; float: right;
+}
+.main_right .main_right_body {
+	width: 469px; padding-top: 80px;
+}
+.main_right .main_right_body p {
+	background: url("../images/da01.gif") no-repeat left 3px; line-height: 25px; padding-left: 20px; font-size: 13px; margin-bottom: 25px;
+}
+.main_right .main_right_body2 {
+	width: 660px; padding-top: 80px;
+}
+.main_right .main_right_body2 p {
+	width: 452px; line-height: 25px; padding-left: 20px; font-size: 13px; margin-bottom: 25px;
+}
+.main_right .main_right_body3 {
+	width: 660px; padding-top: 80px;
+}
+.main_right .main_right_body3 p {
+	width: 452px; line-height: 25px; padding-left: 50px; font-size: 13px; margin-bottom: 25px;
+}
+.main_right .mag0 {
+	margin: 0px;
+}
+/*©³³¡¸ê°T*/
+.bottom { width:955px; height:80px; line-height:26px; font-family:"·s²Ó©úÅé"; text-align:center; font-size:12px; background:#4b4b4b; color:#ccc;}
+
+.bottom a:link {
+	margin: 0px 5px; color: rgb(204, 204, 204); text-decoration: none;
+}
+.bottom a:visited {
+	margin: 0px 5px; color: rgb(204, 204, 204); text-decoration: none;
+}
+.bottom a:hover {
+	margin: 0px 5px; color: rgb(255, 255, 255); text-decoration: underline;
+}
+.bottom a:active {
+	margin: 0px 5px; color: rgb(255, 255, 255); text-decoration: underline;
+}
+.fuwu_dl dt {
+	background: url("../images/da01.gif") no-repeat left 3px; width: 116px; height: 80px; color: rgb(0, 0, 153); padding-left: 20px; font-weight: bold; float: left;
+}
+.fuwu_dl dd {
+	width: 483px; height: 80px; padding-left: 20px;
+}
+.main_right_body dl {
+	padding-left: 20px;
+}
+.main_right_body dt {
+	background: url("../images/da02.gif") no-repeat left 4px; padding-left: 14px; float: left;
+}
+.main_right_body dd {
+	width: 318px; padding-bottom: 10px;
+}
+.font04 {
+	color: rgb(0, 0, 153); font-size: 12px; font-weight: bold;
+}
+.font_gray_12 {
+	font-size: 12px; font-weight: normal;
+}
+td a:link {
+	color: rgb(153, 153, 153); font-size: 14px; text-decoration: none;
+}
+td a:visited {
+	color: rgb(153, 153, 153); font-size: 14px; text-decoration: none;
+}
+td a:hover {
+	color: rgb(102, 102, 102); font-size: 14px;
+}
+td a:active {
+	color: rgb(102, 102, 102); font-size: 14px;
+}
+.com_line {
+	background-position: center; background-image: url("../images/com_line.gif"); background-repeat: repeat-x;
+}
+td h1 {
+	font-size: 12px; font-weight: normal;
+}
+.font-purple-12 {
+	color: rgb(102, 102, 102); font-size: 12px;
+}
+.com-tabTxt-1 a:link {
+	color: rgb(0, 0, 153); font-size: 12px;
+}
+.com-tabTxt-1 a:visited {
+	color: rgb(0, 0, 153); font-size: 12px;
+}
+.com-tabTxt-1 a:hover {
+	color: rgb(0, 0, 153); font-size: 12px;
+}
+.com-tabTxt-1 a:active {
+	color: rgb(0, 0, 153); font-size: 12px;
+}
+.font03 {
+	color: rgb(81, 81, 81); line-height: 18px; letter-spacing: 1.5pt; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-decoration: none;
+}
+.font02 {
+	color: rgb(164, 0, 0); line-height: 25px; letter-spacing: 1.5pt; font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+}
+.main2 {
+	padding: 25px 30px 35px; width: 925px; overflow: hidden;
+}
+.ban2 {
+	width: 955px; height: 244px; overflow: hidden; border-bottom-color: rgb(37, 103, 117); border-bottom-width: 37px; border-bottom-style: solid;
+}
+.about {
+	width: 293px;
+}
+.about_tp {
+	width: 293px;
+}
+.about_con {
+	width: 293px;
+}
+.online {
+	width: 293px;
+}
+.online_tp {
+	width: 293px;
+}
+.about {
+	height: 234px; overflow: hidden; float: left;
+}
+.about_tp {
+	background: url("../images/line.jpg") no-repeat bottom; height: 19px;
+}
+.about_tp a {
+	background: url("../images/about.jpg") no-repeat 5px 0px; width: 200px; height: 16px; color: rgb(5, 4, 151); line-height: 16px; padding-left: 18px; font-size: 13px; font-weight: bold; text-decoration: none; margin-bottom: 5px; display: block;
+}
+.about_tp a:hover {
+	color: rgb(0, 160, 192);
+}
+.about_con {
+	height: 204px; color: rgb(85, 85, 85); line-height: 22px; padding-top: 8px;
+}
+.service {
+	margin-left: 40px; display: inline;
+}
+.service_tp a {
+	background: url("../images/service.jpg") no-repeat 5px 0px;
+}
+.online_tp {
+	padding-top: 30px;
+}
+.payments {
+	padding-top: 30px;
+}
+.online_tp a {
+	background: url("../images/online.jpg") no-repeat 5px 0px;
+}
+.payments {
+	margin-left: 40px;
+}
+.payments_tp a {
+	background: url("../images/payments.jpg") no-repeat 5px 0px;
+}
+.contact {
+	background: url("../images/img.jpg") no-repeat right bottom rgb(242, 242, 242); padding: 17px 12px 12px; width: 265px; height: 479px; float: right; display: inline;
+}
+.tel {
+	background: url("../images/small.jpg") no-repeat left top; width: 205px; height: 29px; color: rgb(85, 85, 85); line-height: 16px; padding-bottom: 15px; padding-left: 35px; font-size: 12px; border-bottom-color: rgb(186, 183, 167); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.address {
+	width: 241px; height: 156px; color: rgb(85, 85, 85); line-height: 22px; padding-top: 8px;
+}
+
+/* kehu */
+.main_right2{ width: 745px;  line-height: 20px; float: right;}
+.main_right_body4{width: 745px; background:url(../images/kehu_06.gif) -1px 0 no-repeat; padding-top:37px;}
+.warp{ background:url(../images/kehu_13.gif) repeat-y; padding-bottom:30px;}
+.font16px{ font-size:20px; width:600px; margin:0 auto; padding-top:15px; color:#008080; font-family:'·s²Ó©úÅé' ;}
+.kehu_title{padding-left:50px; padding-top:20px; }
+.logolist{padding-left:50px; }
+.picbox{float:left; width:120px; height:100px; overflow:hidden; margin:10px 20px; display:inline;}
+.picbox h3{font-size:12px; font-weight:normal; text-align: center;}
+.clear{clear:both;height:1px;margin-top:-1px;overflow:hidden;}
+.comlist{background:url(../images/kehu_45.gif) 20px 0 no-repeat; width:640px; height:87px; overflow:hidden;}
+.font14px{font-size:15px; padding-left:100px; padding-top:15px; width:600px; color:#008080}
+.casetable{ border-collapse:collapse; color:#767676; margin:0 auto;}
+.casetable td{border:1px solid #CCC; padding-left:5px;}
+.red{color:#F00; font-weight:bold;}
+.bgline{ margin-left:10px;}
+.bg2{background:url(../images/kehu_48.gif) no-repeat; width:955px; height:19px; overflow:hidden;}
+
+.content-bottom ul li span{ display:block; height:36px; background-color:#eee;}
+.service125{width:293px;display:block;height:19px; background:url(../images/links.gif) no-repeat 5px 0px;}
+.service125 a{color:#050497; padding-left:20px;text-decoration:none; font-weight:bold; font-size:13px;}
+.service126{width:293px;display:block;height:19px; background:url(../images/partners.gif) no-repeat 5px 0px;}
+.service126 a{color:#050497; padding-left:20px;text-decoration:none; font-weight:bold; font-size:13px;}
+.icon{ margin-left:3px; background:url('../images/da03.gif')  no-repeat left center;padding:8px 0 3px 12px;}

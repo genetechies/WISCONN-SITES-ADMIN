@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: /App_Data/
+Disallow: /UpLoadFiles/
+Disallow: /admlgn.aspx
+Disallow: /backstage01.aspx
+Disallow: /backstage02.aspx
+Sitemap: http://www.houguan-translation-services.com/sitemap/sitemap.html
