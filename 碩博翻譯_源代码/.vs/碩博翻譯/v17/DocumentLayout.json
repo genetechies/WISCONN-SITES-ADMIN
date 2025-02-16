@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dal\\dal\\newsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|solutionrelative:dal\\dal\\newsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dal\\dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|solutionrelative:dal\\dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dal\\dal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CF080-75FB-41EC-9950-5B6C572D31D0}|DAL\\DAL.csproj|solutionrelative:dal\\dal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dbutility\\dbutility\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|solutionrelative:dbutility\\dbutility\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}|Model\\Model.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\model\\model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}|Model\\Model.csproj|solutionrelative:model\\model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842F456F-D823-435F-87C0-066E048149C1}|BLL\\BLL.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\bll\\bll\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842F456F-D823-435F-87C0-066E048149C1}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\helper\\helper\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|solutionrelative:helper\\helper\\mytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\helper\\helper\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|solutionrelative:helper\\helper\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\helper\\helper\\commonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|solutionrelative:helper\\helper\\commonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\helper\\helper\\autothumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029F7E2B-667C-4DF4-85D1-7D7547B7C221}|Helper\\Helper.csproj|solutionrelative:helper\\helper\\autothumb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dbutility\\dbutility\\pubconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|solutionrelative:dbutility\\dbutility\\pubconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\dbutility\\dbutility\\dbhelperoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}|DBUtility\\DBUtility.csproj|solutionrelative:dbutility\\dbutility\\dbhelperoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842F456F-D823-435F-87C0-066E048149C1}|BLL\\BLL.csproj|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\bll\\bll\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842F456F-D823-435F-87C0-066E048149C1}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\translationnews\\art.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\translationnews\\art.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\translationnews\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\translationnews\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\translationnews\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\translationnews\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\translationnews\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\translationnews\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\content\\ueditorutf8\\net\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\content\\ueditorutf8\\net\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PubConstant.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\PubConstant.cs",
+              "RelativeDocumentMoniker": "DBUtility\\DBUtility\\PubConstant.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\PubConstant.cs",
+              "RelativeToolTip": "DBUtility\\DBUtility\\PubConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:36:52.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbHelperOledb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\DbHelperOledb.cs",
+              "RelativeDocumentMoniker": "DBUtility\\DBUtility\\DbHelperOledb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\DbHelperOledb.cs",
+              "RelativeToolTip": "DBUtility\\DBUtility\\DbHelperOledb.cs",
+              "ViewState": "AQIAANUBAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:36:05.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Model\\Model\\NewsClass.cs",
+              "RelativeDocumentMoniker": "Model\\Model\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Model\\Model\\NewsClass.cs",
+              "RelativeToolTip": "Model\\Model\\NewsClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:38:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DBUtility\\DBUtility\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DBUtility\\DBUtility\\DataAccess.cs",
+              "RelativeToolTip": "DBUtility\\DBUtility\\DataAccess.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:35:43.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\Manager.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL\\Manager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\Manager.cs",
+              "RelativeToolTip": "DAL\\DAL\\Manager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vy8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:30:04.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\NewsClass.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\NewsClass.cs",
+              "RelativeToolTip": "DAL\\DAL\\NewsClass.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAD4v50AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:12:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-12T04:41:21.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newsdata.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\newsdata.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL\\newsdata.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\DAL\\DAL\\newsdata.cs",
+              "RelativeToolTip": "DAL\\DAL\\newsdata.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAD4v/YAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:29:30.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\BLL\\BLL\\Manager.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\Manager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\BLL\\BLL\\Manager.cs",
+              "RelativeToolTip": "BLL\\BLL\\Manager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:30:55.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoThumb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\AutoThumb.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper\\AutoThumb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\AutoThumb.cs",
+              "RelativeToolTip": "Helper\\Helper\\AutoThumb.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:37:00.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\CommonFunction.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper\\CommonFunction.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\CommonFunction.cs",
+              "RelativeToolTip": "Helper\\Helper\\CommonFunction.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:37:07.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\MessageBox.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper\\MessageBox.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\MessageBox.cs",
+              "RelativeToolTip": "Helper\\Helper\\MessageBox.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:37:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyTool.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\MyTool.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper\\MyTool.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Helper\\Helper\\MyTool.cs",
+              "RelativeToolTip": "Helper\\Helper\\MyTool.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:37:28.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx.cs",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx.cs",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:09:38.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T05:02:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\css\\style.css",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\css\\style.css",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\css\\style.css",
+              "ViewState": "AQIAADkUAAAAAAAAAAAAAEkUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T04:57:21.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\css\\style.css",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\css\\style.css",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\css\\style.css",
+              "ViewState": "AQIAADMUAAAAAAAAAAAAAEIUAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T04:54:38.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAApwMUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:37:30.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\BLL\\BLL\\NewsClass.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\BLL\\BLL\\NewsClass.cs",
+              "RelativeToolTip": "BLL\\BLL\\NewsClass.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAhwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:26:58.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "art.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\art.aspx",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\art.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\art.aspx",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\TranslationNews\\art.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T04:51:33.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\Content\\ueditorUTF8\\net\\config.json",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\Content\\ueditorUTF8\\net\\config.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\Content\\ueditorUTF8\\net\\config.json",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\Content\\ueditorUTF8\\net\\config.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T04:47:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Manage.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx",
+              "RelativeDocumentMoniker": "\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx",
+              "RelativeToolTip": "\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\articleclass\\Manage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T04:36:30.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

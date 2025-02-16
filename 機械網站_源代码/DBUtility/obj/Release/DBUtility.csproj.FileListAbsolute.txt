@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\bin\Release\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\bin\Release\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\bin\Release\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\bin\Release\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\obj\Release\DBUtility.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\obj\Release\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\obj\Release\DBUtility.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\obj\Release\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\DBUtility\obj\Release\DBUtility.pdb

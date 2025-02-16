@@ -1,0 +1,119 @@
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\Helper.dll
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\Helper.pdb
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\Helper.dll
+D:\项目\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\Helper.dll
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\Helper.dll
+F:\冯武\项目\台湾项目\x-marketing项目\x-marketing-dllproject\Helper\obj\Debug\Helper.pdb
+D:\项目\项目\台湾项目\硕博项目\Helper\bin\Debug\Helper.dll
+D:\项目\项目\台湾项目\硕博项目\Helper\bin\Debug\Helper.pdb
+D:\项目\项目\台湾项目\硕博项目\Helper\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\硕博项目\Helper\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\硕博项目\Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\Helper\obj\Debug\Helper.dll
+D:\项目\项目\台湾项目\硕博项目\Helper\obj\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\硕博项目\Helper\bin\Debug\Helper.dll
+F:\冯武\项目\台湾项目\硕博项目\Helper\bin\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\硕博项目\Helper\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\硕博项目\Helper\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\硕博项目\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\Helper\obj\Debug\Helper.dll
+F:\冯武\项目\台湾项目\硕博项目\Helper\obj\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\Helper.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\Helper.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\Helper.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\Helper.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\Helper.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\Helper.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\Helper.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Helper\obj\Debug\Helper.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\bin\Debug\Helper.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\bin\Debug\Helper.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\obj\Debug\Helper.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Helper\obj\Debug\Helper.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\bin\Debug\Helper.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\bin\Debug\Helper.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\bin\Debug\DBUtility.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\obj\Debug\Helper.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Helper\obj\Debug\Helper.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\bin\Debug\Helper.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\bin\Debug\Helper.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\obj\Debug\Helper.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Helper\obj\Debug\Helper.pdb
+G:\网站开发\EN 后冠\Helper\bin\Debug\Helper.dll
+G:\网站开发\EN 后冠\Helper\bin\Debug\Helper.pdb
+G:\网站开发\EN 后冠\Helper\bin\Debug\DBUtility.dll
+G:\网站开发\EN 后冠\Helper\bin\Debug\DBUtility.pdb
+G:\网站开发\EN 后冠\Helper\obj\Debug\ResolveAssemblyReference.cache
+G:\网站开发\EN 后冠\Helper\obj\Debug\Helper.dll
+G:\网站开发\EN 后冠\Helper\obj\Debug\Helper.pdb
+G:\网站开发\EN 后冠\Helper\bin\Debug\Model.dll
+G:\网站开发\EN 后冠\Helper\bin\Debug\Model.pdb
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\Helper.dll
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\Helper.pdb
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.dll
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\Model.dll
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.pdb
+E:\项目\母子網站\EN 后冠\Helper\bin\Debug\Model.pdb
+E:\项目\母子網站\EN 后冠\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+E:\项目\母子網站\EN 后冠\Helper\obj\Debug\Helper.dll
+E:\项目\母子網站\EN 后冠\Helper\obj\Debug\Helper.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\Helper.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\Helper.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\Model.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\bin\Debug\Model.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\obj\Debug\Helper.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Helper\obj\Debug\Helper.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\Helper.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\Helper.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\Model.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\bin\Debug\Model.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\obj\Debug\Helper.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Helper\obj\Debug\Helper.pdb
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\Helper.dll
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\Helper.pdb
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\DBUtility.dll
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\Model.dll
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\DBUtility.pdb
+D:\正式網站區\翻譯網站\母網站\Helper\bin\Debug\Model.pdb
+D:\正式網站區\翻譯網站\母網站\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\正式網站區\翻譯網站\母網站\Helper\obj\Debug\Helper.dll
+D:\正式網站區\翻譯網站\母網站\Helper\obj\Debug\Helper.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\Helper.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\Helper.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\obj\Debug\Helper.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\obj\Debug\Helper.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Helper\obj\Debug\Helper.pdb

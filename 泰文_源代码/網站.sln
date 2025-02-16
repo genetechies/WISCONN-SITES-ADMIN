@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "網站", "網站\", "{8EB94F9B-FEC5-41DE-BF03-BD6110E63E30}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{37708350-dc68-4975-bd79-757c57c4825d}|BLL.dll;{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL.dll;{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}|DBUtility.dll;{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model.dll;{15086810-00f1-4067-8b5b-95d1b9ec2c53}|Helper.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57742"
+		Debug.AspNetCompiler.PhysicalPath = "網站\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57742\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57742"
+		Release.AspNetCompiler.PhysicalPath = "網站\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57742\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57742"
+		SlnRelativePath = "網站\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{37708350-DC68-4975-BD79-757C57C4825D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{184C774D-46A7-45BD-9624-DA8C55CBE1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUtility", "DBUtility\DBUtility.csproj", "{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{15086810-00F1-4067-8B5B-95D1B9EC2C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B80485AD-1484-4AC2-B494-3F94E9297E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB94F9B-FEC5-41DE-BF03-BD6110E63E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB94F9B-FEC5-41DE-BF03-BD6110E63E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB94F9B-FEC5-41DE-BF03-BD6110E63E30}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB94F9B-FEC5-41DE-BF03-BD6110E63E30}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{37708350-DC68-4975-BD79-757C57C4825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37708350-DC68-4975-BD79-757C57C4825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37708350-DC68-4975-BD79-757C57C4825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37708350-DC68-4975-BD79-757C57C4825D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184C774D-46A7-45BD-9624-DA8C55CBE1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184C774D-46A7-45BD-9624-DA8C55CBE1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184C774D-46A7-45BD-9624-DA8C55CBE1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184C774D-46A7-45BD-9624-DA8C55CBE1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15086810-00F1-4067-8B5B-95D1B9EC2C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15086810-00F1-4067-8B5B-95D1B9EC2C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15086810-00F1-4067-8B5B-95D1B9EC2C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15086810-00F1-4067-8B5B-95D1B9EC2C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80485AD-1484-4AC2-B494-3F94E9297E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80485AD-1484-4AC2-B494-3F94E9297E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80485AD-1484-4AC2-B494-3F94E9297E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80485AD-1484-4AC2-B494-3F94E9297E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B45401C6-2BFF-47E8-8D32-627D42139B21}
+	EndGlobalSection
+EndGlobal

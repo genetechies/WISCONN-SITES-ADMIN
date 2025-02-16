@@ -1,0 +1,179 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Manage.aspx.cs" Inherits="ZeroStudio.Web.Admin.Product.Manage" %>
+
+<%@ Register Assembly="AspNetPager" Namespace="Wuqi.Webdiyer" TagPrefix="webdiyer" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>產品管理</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../styles/blue_2010.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../js/common.js"></script>
+    <script type="text/javascript" src="../../js/quickView.js"></script>
+    <script type="text/javascript">
+        function validText(target) {
+            var page = document.getElementById(target);
+            if (page.value == "") {
+                alert('請輸入排序號!');
+                page.focus();
+                return false;
+            }
+            if (isNaN(page.value)) {
+                alert('排序號須為數字!');
+                page.focus();
+                return false;
+            }
+            if (parseInt(page.value) < 0) {
+                alert('排序號須為大於等於零的正整數!');
+                page.focus();
+                return false;
+            }
+            return true;
+        }
+        function clearSearchText(searchText){
+	        if(document.getElementById(searchText).value=="查詢產品訊息"){
+		        document.getElementById(searchText).value="";
+	        }
+        }
+        function SelectAll(chk) {
+            var flag = false;
+            for (var li_i = 0; li_i < document.forms[0].elements.length; li_i++) {
+                var e = document.forms[0].elements[li_i];
+                var ls_temp;
+                ls_temp = e.name;
+                if (e.type == "checkbox") {
+                    e.checked = chk.checked;
+                }
+            }
+        }
+    </script>
+</head>
+
+<script language="javascript" type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+<body>
+<div class="BodyRight">
+    <form id="form1" runat="server">
+	<div class="PageContent">
+	    <br />
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #BDC9D6;height:35px">
+		  <tr>
+			<td>
+			<table width="95%" border="0" cellpadding="0" cellspacing="0" style="margin-left:20px;">
+			  <tr>
+				<td width="15%">產品管理 > 產品列表</td>
+				<td width="73%" align="right">
+				     <asp:DropDownList ID="ddlCategory" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlCategory_SelectedIndexChanged" >
+		                <asp:ListItem Text="請選擇分類" Value="-1"></asp:ListItem>
+		             </asp:DropDownList>&nbsp;&nbsp;
+                     <asp:DropDownList ID="ddlCategory2" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlCategory2_SelectedIndexChanged" >
+		                <asp:ListItem Text="請選擇第二層產品分類" Value="-1"></asp:ListItem>
+		             </asp:DropDownList>&nbsp;&nbsp;
+                     <asp:DropDownList ID="ddlCategory3" runat="server" >
+		                <asp:ListItem Text="請選擇第三層產品分類" Value="-1"></asp:ListItem>
+		             </asp:DropDownList>&nbsp;&nbsp;
+		             <asp:TextBox ID="searchText1" runat="server" style="vertical-align:middle" onfocus="javascript:clearSearchText('searchText1');" Text="查詢產品訊息"></asp:TextBox>&nbsp;		
+			         <asp:LinkButton ID="btnSearch" runat="server"  style="vertical-align:middle" OnClick="btnSearch_Click" Text="查詢" />
+				</td>
+				<td width="12%" align="right" class="bt_add">
+				     <a href="Add.aspx">新增</a>
+                    <asp:Button ID="btnUpdateDB" runat="server" OnClick="btnUpdateDB_Click" Text="插入字段" />
+				 </td>
+			  </tr>
+			</table>
+			</td>
+		  </tr>
+		</table>
+		<br />
+		<br />
+		<br />
+		<div class="tablelisthead">
+        <ul>
+        <li class="li_5">選擇</li>
+        <li class="li_10">產品編號</li>
+        <li class="li_27">產品料號</li>
+        <li class="li_15">第三層欄位名稱</li>
+        <li class="li_10">建立時間</li>
+        <li class="li_5">排序號</li>
+        <li class="li_10">&nbsp;</li>
+        <li class="li_10">操作選項</li>
+        </ul>
+        </div>
+        <div class="tablelist">
+             <asp:Repeater ID="productGrid" runat="server" OnItemCommand="productGrid_ItemCommand" OnItemDataBound="productGrid_ItemDataBound">
+                    <ItemTemplate>
+                            <ul>
+                                <li class="li_5"><asp:CheckBox ID="cbSelect" runat="server" /></li>
+                                <li class="li_10"><%#Eval("P_Code") %></li>
+                                <li class="li_27"><%#GetImage(Eval("P_Id"), Eval("P_Model"))%></li>
+                                <li class="li_15"><%#Eval("PC_ClassName")%></li>
+                                <li class="li_10" style="font-size:10px;"><%#Eval("P_Uptime","{0:yyyy-MM-dd}") %></li>
+                                <li class="li_5" style="text-indent:20px;">
+                                    <asp:Label ID="lblPID" runat="server" Text='<%#Eval("P_Id") %>' Visible="false"></asp:Label>
+                                    <asp:TextBox ID="txtParentID" runat="server" Width="40px" Text='<%# Eval("P_ParentID") %>' ></asp:TextBox>
+                                </li>
+                                <li class="li_10" style="text-indent:2px;">
+                                    <asp:LinkButton ID="btnModfiySortKey" runat="server" CommandName="modfiy" >修改排序號</asp:LinkButton>
+                                </li>
+                                <li class="li_5 operation">						
+                                    <a href="Edit.aspx?P_id=<%#Eval("P_Id") %>" title="編輯" class="op_edit"  ></a>&nbsp;&nbsp;
+                                </li>
+                                <li class="li_5 operation">
+                                    <asp:LinkButton ID="Del" CommandArgument='<%#Eval("P_Id") %>' runat="server" CssClass="op_del" OnClick="Del_Click" OnClientClick="return confirm('確定要刪除嗎?');" ToolTip="刪除" ></asp:LinkButton>
+                                </li>
+                            </ul>
+                    </ItemTemplate>
+                </asp:Repeater>
+               
+        </div>
+        <div class="tablelisthead">
+             <ul>
+                    <li class="li_5">&nbsp;</li>
+                    <li class="li_27"><input type="checkbox" onclick="SelectAll(this);" />全選</li>
+                    <li class="li_15">[<asp:LinkButton ID="btnDelAll" runat="server" OnClientClick="return confirm('確定要徹底刪除選擇的產品嗎');" style="color:#888888" OnClick="btnDelAll_Click" ToolTip="刪除選擇的產品" >刪除所選</asp:LinkButton>]</li>
+                    <li class="li_15">&nbsp;</li>
+                    <li class="li_10">&nbsp;</li>
+                    <li class="li_5">&nbsp;</li>
+                    <li class="li_10">&nbsp;</li>
+                    <li class="li_10"></li>
+                </ul>
+        </div>
+        <div>
+        <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" >
+            <tr>
+                <td class="lanyuds" colspan="5" align="center">
+                        &nbsp;<webdiyer:aspnetpager id="AspNetPager1" runat="server" AlwaysShow="false" firstpagetext="首頁" lastpagetext="尾頁"
+                            nextpagetext="下一頁" prevpagetext="上一頁" OnPageChanged="AspNetPager1_PageChanged"></webdiyer:aspnetpager>
+                        
+                </td>
+            </tr>
+        </table>
+    </div>
+    </div>
+    </form>
+    </div>
+</body>
+</html>

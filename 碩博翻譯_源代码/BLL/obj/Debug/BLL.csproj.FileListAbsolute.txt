@@ -1,0 +1,110 @@
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\BLL\obj\Debug\BLL.pdb

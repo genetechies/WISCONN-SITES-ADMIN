@@ -1,0 +1,221 @@
+/**
+ * @package Site Template
+ * @subpackage Magique HTML
+ * @since Magique 1.0
+ * 
+ * Site Template for Retina Display
+ * Created by CMSMasters
+ * 
+ */
+
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+
+	#slide_top {
+		background-image:url(../../images/retina/arrow_top@2x.png); 
+		background-size:13px 8px; 
+	}
+	
+	#footer {
+		background-image:url(../../images/retina/footer_bg@2x.jpg); 
+		background-size:200px 200px; 
+	}
+	
+	a span.image_rollover,
+	.portfolio.format-album.format-cover a span.image_rollover, 
+	.post_type_shortcode .portfolio.format-album a span.image_rollover, 
+	.post_type_shortcode .post.format-image a span.image_rollover {
+		background-image:url(../../images/retina/hover_content@2x.png); 
+		background-size:100px 100px; 
+	}
+	
+	a[rel="prettyPhoto"] span.image_rollover,
+	.portfolio.format-album a span.image_rollover, 
+	.post.format-image a span.image_rollover, 
+	.post-article a span.image_rollover {
+		background-image:url(../../images/retina/hover_image@2x.png); 
+		background-size:100px 100px; 
+	}
+	
+	.format-link a span.image_rollover {
+		background-image:url(../../images/retina/hover_link@2x.png); 
+		background-size:100px 100px; 
+	}
+	
+	.format-video a span.image_rollover {
+		background-image:url(../../images/retina/hover_video@2x.png); 
+		background-size:100px 100px; 
+	}
+	
+	.responsiveSlider>li.link a.cmsms_img_link {
+		background-image:url(../../images/retina/link@2x.png); 
+		background-size:100px 100px;
+	}
+	
+	.project ul.project_details li {
+		background-image:url(../../images/retina/list_image@2x.png); 
+		background-size:10px 10px; 
+	}
+	
+	.#navigation > li > a > span,
+	.cmsms_plus_inner,
+	.comment-reply-link,
+	.button,
+	.button_medium,
+	.button_large {
+		background-image:url(../../images/retina/nav_a_bg@2x.png); 
+		background-size:98px 40px; 
+	}
+	
+	.entry .project_navi span a {
+		background-image:url(../../images/retina/nav_arrow_left@2x.png); 
+		background-size:4px 7px; 
+	}
+	
+	#navigation ul li.drop > a > span,
+	.post .cmsms_more,
+	.entry .project_navi span a.next {
+		background-image:url(../../images/retina/nav_arrow_right@2x.png); 
+		background-size:4px 7px; 
+	}
+	
+	#navigation > li {
+		background-image:url(../../images/retina/nav_li_bg@2x.png); 
+		background-size:25px 11px;
+	}
+	
+	.p_sort a:before,
+	a.p_cat_filter:before {
+		background-image:url(../../images/retina/pj_sort_arrow@2x.png); 
+		background-size:13px 38px;
+	}
+	
+	.cmsms-form-builder .check_parent input[type="radio"]+label,
+	.cmsms-form-builder .check_parent input[type="radio"]:checked+label,
+	.cmsms-form-builder .check_parent input[type="checkbox"]+label,
+	.cmsms-form-builder .check_parent input[type="checkbox"]:checked+label {
+		background-image:url(../../images/retina/radio_check@2x.png); 
+		background-size:17px 103px;
+	}
+	
+	.resp_navigation span {
+		background-image:url(../../images/retina/resp_nav_but_bg@2x.png); 
+		background-size:25px 50px;
+	}
+	
+	.search_line input[type="submit"] {
+		background-image:url(../../images/retina/search@2x.png); 
+		background-size:17px 16px; 
+	}
+	
+	.cmsms_slider_parent a.cmsms_prev_slide span, 
+	.cmsms_slider_parent a.cmsms_next_slide span {
+		background-image:url(../../images/retina/slider_arrow@2x.png); 
+		background-size:34px 19px; 
+	}
+	
+	.project_details .cmsmsLike {
+		background-image:url(../../images/retina/heart@2x.png); 
+		background-size:14px 11px; 
+	}
+	
+	.responsiveSlider>li.video a.cmsms_img_video {
+		background-image:url(../../images/retina/video@2x.png); 
+		background-size:100px 100px;
+	}
+
+	.cmsms_slider_parent a.cmsms_close_video {
+		background-image:url(../../images/retina/video_close@2x.png); 
+		background-size:18px 80px; 
+	}
+	
+	.format-standard .cmsms_post_img,
+	.format-album .cmsms_post_img {
+		background-image:url(../../images/retina/format_standard@2x.png); 
+		background-size:13px 17px; 
+	}
+
+	.format-image .cmsms_post_img {
+		background-image:url(../../images/retina/format_image@2x.png); 
+		background-size:17px 13px; 
+	}
+
+	.format-aside .cmsms_post_img {
+		background-image:url(../../images/retina/format_aside@2x.png); 
+		background-size:16px 16px; 
+	}
+
+	.format-link .cmsms_post_img {
+		background-image:url(../../images/retina/format_link@2x.png); 
+		background-size:17px 18px; 
+	}
+
+	.format-slider .cmsms_post_img,
+	.format-gallery .cmsms_post_img {
+		background-image:url(../../images/retina/format_gallery@2x.png); 
+		background-size:17px 15px; 
+	}
+
+	.format-audio .cmsms_post_img {
+		background-image:url(../../images/retina/format_audio@2x.png); 
+		background-size:16px 17px; 
+	}
+
+	.format-video .cmsms_post_img {
+		background-image:url(../../images/retina/format_video@2x.png); 
+		background-size:15px 18px; 
+	}
+
+	.format-quote .cmsms_post_img {
+		background-image:url(../../images/retina/format_quote@2x.png); 
+		background-size:17px 16px; 
+	}
+	
+	.box.error_box table td:first-child {
+		background-image:url(../../images/retina/error@2x.png); 
+		background-size:32px 32px; 
+	}
+
+	.box.success_box table td:first-child {
+		background-image:url(../../images/retina/success@2x.png); 
+		background-size:32px 32px; 
+	}
+
+	.box.notice_box table td:first-child {
+		background-image:url(../../images/retina/notice@2x.png); 
+		background-size:32px 32px; 
+	}
+
+	.box.warning_box table td:first-child {
+		background-image:url(../../images/retina/warning@2x.png); 
+		background-size:32px 32px; 
+	}
+
+	.box.download_box table td:first-child {
+		background-image:url(../../images/retina/download@2x.png); 
+		background-size:32px 32px; 
+	}
+
+}
+
+@media only screen and (max-width: 767px) {
+
+	@media (-webkit-min-device-pixel-ratio: 2) {
+
+		#navigation li.drop > a > span:before {
+			background-image:url(../../images/retina/resp_nav_arrow@2x.png); 
+			background-size:35px 9px; 
+		}
+	
+	}
+
+}
+
+@media only screen and (max-width: 540px) {
+
+	#navigation > li {background-image:none;}
+	
+	#navigation ul li.drop > a > span {background:none;}
+
+}
+

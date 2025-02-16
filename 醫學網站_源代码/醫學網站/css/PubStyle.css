@@ -1,0 +1,230 @@
+.font01
+{
+	letter-spacing: 1.5pt;
+    FONT-SIZE: 12px;
+    COLOR: #515151;
+    LINE-HEIGHT: 25px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+    
+}
+.font02
+{
+	letter-spacing: 1.5pt;
+    FONT-SIZE: 12px;
+    COLOR: #a40000;
+    LINE-HEIGHT: 25px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+.font03
+{
+	letter-spacing: 1.5pt;
+	FONT-SIZE: 12px;
+	COLOR: #515151;
+	LINE-HEIGHT: 18px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.font031
+{
+    FONT-SIZE: 12px;
+    COLOR: #515151;
+    LINE-HEIGHT: 18px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font033
+{
+	letter-spacing: 1.5pt;
+    FONT-SIZE: 12px;
+    COLOR: #515151;
+    LINE-HEIGHT: 20px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+.font04
+{
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	COLOR: #000099;
+	LINE-HEIGHT: 25px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.font044
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: #CC3300;
+    LINE-HEIGHT: 25px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font05
+{
+    FONT-SIZE: 12px;
+    COLOR: #a6a6a6;
+    
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font05 A
+{
+    COLOR: #a6a6a6;
+    TEXT-DECORATION: none
+}
+.font05 A:hover
+{
+    COLOR: #a6a6a6;
+    TEXT-DECORATION: underline
+}
+.font06
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font07
+{
+    FONT-SIZE: 11px;
+    COLOR: #a6a6a6;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font07 A
+{
+    COLOR: #a6a6a6;
+    TEXT-DECORATION: none
+}
+.font07 A:hover
+{
+    COLOR: #a6a6a6;
+    TEXT-DECORATION: underline
+}
+.font08
+{
+    FONT-SIZE: 11px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font09
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13px;
+    COLOR: #1b3e80;
+    LINE-HEIGHT: 25px;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font10
+{
+    FONT-SIZE: 10px;
+    COLOR: #999999;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.font11
+{
+    FONT-SIZE: 12px;
+    COLOR: #515151;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+
+.GridViewStyle 
+{    
+    border-right: 2px solid #A7A6AA; 
+    border-bottom: 2px solid #A7A6AA; 
+    border-left: 2px solid white; 
+    border-top: 2px solid white; 
+    padding: 4px; 
+} 
+.com_line {
+	background-image: url(../images/com_line.gif);
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.font_gray_12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #888888;
+}
+
+
+
+.GridViewStyle a 
+{ 
+    color: #FFFFFF; 
+} 
+
+.GridViewHeaderStyle th 
+{ 
+    border-left: 1px solid #EBE9ED; 
+    border-right: 1px solid #EBE9ED; 
+
+} 
+
+.GridViewHeaderStyle 
+{ 
+    background-color: #5D7B9D; 
+    font-weight: bold; 
+    color: White; 
+} 
+
+.GridViewFooterStyle 
+{ 
+    background-color: #5D7B9D; 
+    font-weight: bold; 
+    color: White; 
+} 
+
+.GridViewRowStyle 
+{ 
+    background-color: #F7F6F3; 
+    color: #333333; 
+} 
+
+.GridViewAlternatingRowStyle 
+{ 
+    background-color: #FFFFFF; 
+    color: #284775; 
+} 
+
+.GridViewRowStyle td, .GridViewAlternatingRowStyle td 
+{ 
+    border: 1px solid #EBE9ED; 
+} 
+
+.GridViewSelectedRowStyle 
+{ 
+    background-color: #E2DED6; 
+    font-weight: bold; 
+    color: #333333; 
+} 
+
+.GridViewPagerStyle 
+{ 
+    background-color: #284775; 
+    color: #FFFFFF; 
+} 
+
+.GridViewPagerStyle table /* to center the paging links*/ 
+{ 
+    margin: 0 auto 0 auto; 
+} 
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #515151;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #515151;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #515151;
+}

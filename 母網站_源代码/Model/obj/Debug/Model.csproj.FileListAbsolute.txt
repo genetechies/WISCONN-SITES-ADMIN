@@ -1,0 +1,63 @@
+D:\项目\项目\台湾项目\硕博项目\Model\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\Model\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\Model\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\Model\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\bin\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\bin\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\bin\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\Model.pdb
+G:\网站开发\EN 后冠\Model\bin\Debug\Model.dll
+G:\网站开发\EN 后冠\Model\bin\Debug\Model.pdb
+G:\网站开发\EN 后冠\Model\obj\Debug\ResolveAssemblyReference.cache
+G:\网站开发\EN 后冠\Model\obj\Debug\Model.dll
+G:\网站开发\EN 后冠\Model\obj\Debug\Model.pdb
+E:\项目\母子網站\EN 后冠\Model\bin\Debug\Model.dll
+E:\项目\母子網站\EN 后冠\Model\bin\Debug\Model.pdb
+E:\项目\母子網站\EN 后冠\Model\obj\Debug\Model.dll
+E:\项目\母子網站\EN 后冠\Model\obj\Debug\Model.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Model\bin\Debug\Model.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Model\bin\Debug\Model.pdb
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Model\obj\Debug\Model.dll
+E:\MyProject\后冠\母子網站1\母子網站\EN 后冠\Model\obj\Debug\Model.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Model\bin\Debug\Model.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Model\bin\Debug\Model.pdb
+E:\MyProject\后冠\母子網站\EN 后冠\Model\obj\Debug\Model.dll
+E:\MyProject\后冠\母子網站\EN 后冠\Model\obj\Debug\Model.pdb
+D:\正式網站區\翻譯網站\母網站\Model\bin\Debug\Model.dll
+D:\正式網站區\翻譯網站\母網站\Model\bin\Debug\Model.pdb
+D:\正式網站區\翻譯網站\母網站\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\正式網站區\翻譯網站\母網站\Model\obj\Debug\Model.dll
+D:\正式網站區\翻譯網站\母網站\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\母網站\Model\obj\Debug\Model.pdb

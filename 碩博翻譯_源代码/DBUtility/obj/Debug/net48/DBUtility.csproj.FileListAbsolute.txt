@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\bin\Debug\net48\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\bin\Debug\net48\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\obj\Debug\net48\DBUtility.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\obj\Debug\net48\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\obj\Debug\net48\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\obj\Debug\net48\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\DBUtility\obj\Debug\net48\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\bin\Debug\net48\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\bin\Debug\net48\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\obj\Debug\net48\DBUtility.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\obj\Debug\net48\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\obj\Debug\net48\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\obj\Debug\net48\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DBUtility\obj\Debug\net48\DBUtility.pdb

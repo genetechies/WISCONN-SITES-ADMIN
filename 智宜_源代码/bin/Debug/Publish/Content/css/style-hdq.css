@@ -1,0 +1,11 @@
+﻿#emailBox {
+    background: url('/images/email-box-bg.jpg');
+    width: 400px;
+    padding: 2px;
+    border-radius: 5px
+}
+
+#emailBox span {
+    color: white
+}
+

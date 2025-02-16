@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-products-sublist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-products-sublist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-products-sublist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-products-sublist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-products-list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-products-list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\app_code\\dll\\product(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\app_code\\dll\\product(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\admindanny\\ueditor\\ueditor.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\admindanny\\ueditor\\ueditor.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\connector-portfolio-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86BA7B32-2D26-4C5B-84D2-57E077273383}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn|solutionrelative:wisconn\\connector-portfolio-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product(1).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\App_Code\\dll\\Product(1).cs",
+              "RelativeDocumentMoniker": "wisconn\\App_Code\\dll\\Product(1).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\App_Code\\dll\\Product(1).cs",
+              "RelativeToolTip": "wisconn\\App_Code\\dll\\Product(1).cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwPIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:51:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connector-Products-sublist.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-sublist.aspx.cs",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Products-sublist.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-sublist.aspx.cs",
+              "RelativeToolTip": "wisconn\\Connector-Products-sublist.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:52:01.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connector-Products-sublist.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-sublist.aspx",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Products-sublist.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-sublist.aspx",
+              "RelativeToolTip": "wisconn\\Connector-Products-sublist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T06:51:56.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Web.config",
+              "RelativeDocumentMoniker": "wisconn\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Web.config",
+              "RelativeToolTip": "wisconn\\Web.config",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAE4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-12T03:48:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connector-Portfolio.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio.aspx",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Portfolio.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio.aspx",
+              "RelativeToolTip": "wisconn\\Connector-Portfolio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T10:41:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "wisconn\\Content\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Content\\css\\style.css",
+              "RelativeToolTip": "wisconn\\Content\\css\\style.css",
+              "ViewState": "AQIAAElAAAAAAAAAAAAnwGBAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-08T06:28:13.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connector-Products-list.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-list.aspx",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Products-list.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Products-list.aspx",
+              "RelativeToolTip": "wisconn\\Connector-Products-list.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-28T09:26:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connector-Portfolio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio.aspx.cs",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Portfolio.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio.aspx.cs",
+              "RelativeToolTip": "wisconn\\Connector-Portfolio.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:43:39.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ueditor.config.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Admindanny\\ueditor\\ueditor.config.js",
+              "RelativeDocumentMoniker": "wisconn\\Admindanny\\ueditor\\ueditor.config.js",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Admindanny\\ueditor\\ueditor.config.js",
+              "RelativeToolTip": "wisconn\\Admindanny\\ueditor\\ueditor.config.js",
+              "ViewState": "AQIAAIUBAAAAAAAAAAD4v5MBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T09:15:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connector-Portfolio-detail.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio-detail.aspx",
+              "RelativeDocumentMoniker": "wisconn\\Connector-Portfolio-detail.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u570B\u5916\u667A\u5B9C\\wisconn\\Connector-Portfolio-detail.aspx",
+              "RelativeToolTip": "wisconn\\Connector-Portfolio-detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T04:30:52.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

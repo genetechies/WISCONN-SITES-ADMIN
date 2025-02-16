@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:adminaspx\\news\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:adminaspx\\news\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:adminaspx\\news\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:adminaspx\\news\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94F6E3C-DF36-4F60-87DA-7EEE86F97149}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F|solutionrelative:adminaspx\\news\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "adminaspx\\news\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Edit.aspx.cs",
+              "RelativeToolTip": "adminaspx\\news\\Edit.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:18:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Edit.aspx",
+              "RelativeDocumentMoniker": "adminaspx\\news\\Edit.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Edit.aspx",
+              "RelativeToolTip": "adminaspx\\news\\Edit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T08:17:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Add.aspx.cs",
+              "RelativeDocumentMoniker": "adminaspx\\news\\Add.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Add.aspx.cs",
+              "RelativeToolTip": "adminaspx\\news\\Add.aspx.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAQwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:16:51.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Add.aspx",
+              "RelativeDocumentMoniker": "adminaspx\\news\\Add.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Add.aspx",
+              "RelativeToolTip": "adminaspx\\news\\Add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T08:14:25.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "adminaspx\\news\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\adminaspx\\news\\Manage.aspx.cs",
+              "RelativeToolTip": "adminaspx\\news\\Manage.aspx.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAkwKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:17:10.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u78A9\u535A\u7FFB\u8B6F\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-02T08:17:01.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

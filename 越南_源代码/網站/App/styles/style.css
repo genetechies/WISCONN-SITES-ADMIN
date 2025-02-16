@@ -1,0 +1,300 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.all-elements{
+	overflow-x:hidden;
+}
+
+body{
+	background-color:#282c33;
+}
+
+.page-header{
+	position:fixed;
+	z-index:9999;
+	width:100%;
+	background-color:#282c33;
+	height:60px;
+	box-shadow: 0px 3px 2px 2px rgba(0, 0, 0, 0.2);d
+}
+
+.paragraph{
+	display:block;
+	width:100%;
+}
+
+
+.logo{
+	width:78px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:12px;
+}
+
+
+.deploy-sidebar{
+	position:absolute;
+	top:23px;
+	left:20px;
+	background-image:url(../images/misc/deploy-menu@2x.png);
+	background-size:18px 12px;
+	background-repeat:no-repeat;
+	width:18px;
+	height:12px;
+}
+
+.delete-sidebar{
+	display:none;
+	position:absolute;
+	top:19px;
+	left:20px;
+	background-image:url(../images/misc/delete-menu@2x.png);
+	background-size:17px 17px;
+	background-repeat:no-repeat;
+	width:17px;
+	height:17px;
+}
+
+.deploy-contact {
+    position: absolute;
+    top: 18px;
+    right: 20px;
+    background-image: url(../images/misc/deploy-mail@2x.png);
+    background-size: 24px 24px;
+    width: 24px;
+    height: 18px;
+}
+.deploy-tel {
+    position: absolute;
+    top: 16px;
+    right: 60px;
+    background-image: url(../images/misc/deploy-phone.png);
+    background-size: 24px 24px;
+    width: 24px;
+    height: 24px;
+}
+
+.bxslider-wrapper{
+	margin-bottom:-20px;
+}
+
+
+.page-content {
+    margin-top: 50px;
+    background-color: #FFFFFF;
+    z-index: 10;
+    display: block;
+    min-height: 525px;
+}
+
+.page-content-wrapper{
+	display:block;
+	background-color:#FFFFFF;
+	margin:20px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:20px;
+	padding-bottom:15px;
+}
+
+
+
+.page-sidebar{
+	background-color:#FFFFFF;
+	width:270px;
+	display:block;
+	position:absolute;
+	z-index:2;
+	top:50px;
+	left:0px;
+	bottom:0px;
+	overflow:hidden;
+	position:fixed;
+}
+
+.page-sidebar-scroll{
+	width:290px;
+	overflow: scroll!important;
+	overflow-x:hidden!important;
+	-webkit-overflow-scroll:touch!important;	
+	height:100%;
+}
+
+.page-sidebar-scroll .nav-item:first-child{
+	margin-top:10px;
+}
+
+.nav-icon{
+	font-size:14px;
+	color:#8f8f8f;
+	background-repeat:no-repeat;
+	background-size:22px 22px;
+	padding-left:60px;
+	padding-top:2px;
+	padding-bottom:2px;	
+	line-height:58px;
+	background-position:20px 18px;
+}
+
+.nav-item{
+	height:60px;
+	border-bottom:solid 1px #cacaca;
+}
+
+.nav-item:hover{
+	background-color:#f1f1f1;
+}
+
+.home-icon{
+	background-image:url(../images/misc/1.png);
+}
+
+.type-icon{
+	background-image:url(../images/misc/9.png);
+}
+
+.jquery-icon{
+	background-image:url(../images/misc/11.png);
+}
+
+.other-icon{
+	background-image:url(../images/misc/4.png);
+}
+
+.folio-icon{
+	background-image:url(../images/misc/3.png);
+}
+
+.gallery-icon{
+	background-image:url(../images/misc/5.png);
+}
+
+.videos-icon{
+	background-image:url(../images/misc/2.png);
+}
+
+.blogpa-icon{
+	background-image:url(../images/misc/7.png);
+}
+
+.contact-icon{
+	background-image:url(../images/misc/6.png);
+}
+
+.contact-icon{
+	background-image:url(../images/misc/6.png);
+}
+
+.close-icon{
+	background-image:url(../images/misc/8.png);
+}
+
+.coach-icon{
+	background-image:url(../images/misc/12.png);
+}
+
+
+.heading{
+	margin-bottom:20px;
+}
+
+.heading em{
+	font-family:'Dosis', sans-serif;
+	font-style:normal;
+	font-size:12px;
+	color:#ce1a13;
+}
+
+.heading h3{
+	color:#252525;
+	font-weight:400;	
+}
+
+.heading-left{
+	float:left;
+}
+
+.heading-right{
+	float:right;
+	margin-top:5px;
+}
+
+.thumbs{
+	width:110%;
+	margin-left:-5%;
+}
+
+
+.thumb{
+	width:33%;
+	box-sizing:border-box;
+	padding-left:10px;
+	padding-right:10px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.thumb img{
+	width:100%;
+	display:block;
+}
+
+
+.left-thumb-text{
+	color:#FFFFFF;
+	text-align:left;
+	padding-left:10px;
+	margin-top:-30px;
+}
+
+.right-thumb-text{
+	color:#FFFFFF;
+	text-align:right;
+	padding-right:10px;
+	margin-top:-30px;
+}
+
+.copyright{
+	font-size:12px;
+}
+
+.footer-shortcuts{
+	width:130px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+
+}
+
+.footer-shortcuts a {
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.page-ending{
+	height:5px;
+	display:block;
+	margin-left:20px;
+	margin-right:20px;
+	background-color:#e34e47;
+}
+
+.sidebar-ending{
+	height:5px;
+	display:block;
+	background-color:#e34e47;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

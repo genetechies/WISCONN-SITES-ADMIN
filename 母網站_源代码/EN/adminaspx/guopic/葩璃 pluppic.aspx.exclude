@@ -1,0 +1,58 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="pluppic.aspx.cs" Inherits="Web.Admin.GuestBook.Manage" %>
+<%@ Register Assembly="FlashUpload" Namespace="FlashUpload" TagPrefix="FlashUpload" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>LOGO圖批量上傳</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../Css.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table class="table_main">
+       <tr  class="table_tittle">
+          <td ><strong>LOGO圖批量上傳</strong></td>
+       </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_main" style="margin-top:10px;">
+		<tr><td style="border:none;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="Font">				
+		<tr class="secondalt">
+			<td valign="top" style="padding-left:10px;padding-top:3px; padding-bottom:3px;"><span>
+                使用說明</span></td>
+			<td  style="padding-top:3px; padding-bottom:3px;">
+            <div style="line-height:18px;"><b>(1)</b> 最佳解析度104*29;</div>
+            <div style="line-height:18px;"><b>(2)</b> 最佳圖片大小為250kb內，支持jpg、gif、png，每次可上傳總批量爲5Mb;</div>
+            </td>
+		</tr>
+	</table>
+		</td></tr>
+	</table>
+	<table width="100%" height="30" border="0" cellspacing="0" class="table_main" cellpadding="0" style="margin-top:10px;">
+	     <tr><td style="border:none;">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="Font">				
+		<tr class="secondalt">
+			<td valign="top" style="padding-left:10px;padding-top:3px; padding-bottom:3px;"><span>
+                上傳批量圖片</span></td>
+			<td  style="padding-top:3px; padding-bottom:3px;">
+            <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click"></asp:LinkButton>
+            <asp:Label ID="Result" runat="server" ></asp:Label>
+            <flashupload:flashupload ID="flashUpload" runat="server" 
+            UploadPage="Upload.axd" OnUploadComplete="UploadComplete()" 
+            FileTypeDescription="Images(只能為圖片類型!)" FileTypes="*.gif; *.png; *.jpg; *.jpeg" 
+            UploadFileSizeLimit="512000" TotalUploadSizeLimit="5242880" />
+
+            </td>
+		</tr>
+	    </table>
+		</td></tr>
+   </table>
+    <center>
+            
+        </center>
+        </div>
+    </form>
+</body>
+</html>

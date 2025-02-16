@@ -1,0 +1,257 @@
+/**
+ * @package Site Template
+ * @subpackage Magique HTML
+ * @since Magique 1.0
+ * 
+ * IE 8 Styles Fixes
+ * Created by CMSMasters
+ * 
+ */
+
+
+#middle {z-index:1;}
+
+#stlChanger {display:none !important;}
+
+#navigation li {z-index:0;}
+
+#navigation > li {background-position:51% 0;}
+
+#navigation > li:before {
+	content:'';
+	background:none;
+	border-left:1px solid #beb5ae;
+	border-right:1px solid #402e1e;
+	width:4px;
+	height:10000%;
+	position:absolute;
+	left:49.6%;
+	top:-10000%;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+#navigation ul,
+.p_filter_container ul.p_filter {background:#000000;}
+
+.wrap_headline {
+	border-top:1px solid #635749;
+}
+
+#middle {
+	border-top:1px solid #2b221a;
+	border-bottom:1px solid #342922;
+}
+
+.divider,
+.middle_sidebar:before,
+#top_sidebar:before,
+.table tbody tr:before,
+#sidebar .widget:before,
+.widget_links li:before,
+.widget_archive li:before,
+.widget_categories li:before,
+.widget_nav_menu li:before,
+.widget_meta li:before,
+.widget_pages li:before,
+.widget_recent_entries li:before,
+.arrow_dash_r li:before,
+.pricingtable ul li:before,
+.tab.lpr .tabs_tab ul > li:before,
+.sitemap_category:before,
+.sitemap > li:before,
+.error h1:before,
+.error h2:before,
+.project ul.project_details li:before {
+	border-left:10px solid #635b55;
+	border-right:10px solid #635b55;
+	background:#423930;
+}
+
+.content_wrap:before {
+	border-top:20px solid #635b55;
+	border-bottom:20px solid #635b55;
+	background:#423930;
+}
+
+.cmsms_timeline li:before,
+.cmsms_timeline:before {
+	border-top:5px solid #574e47;
+	border-bottom:5px solid #574e47;
+	background:#423930;
+}
+
+.cmsms_timeline li a:before {
+	background:#463b33;
+}
+
+.cmsms_timeline li a:hover:before {
+	background:#6f6860;
+}
+
+#bottom {
+	border-bottom:1px solid #312925;
+}
+
+.pricingtable {
+	border:1px solid #483f37;
+}
+
+.pricingtable .title {
+	border-bottom:1px solid #524a43;
+}
+
+.pricingtable .but {
+	border-top:1px solid #524a43;
+}
+
+.jta-tweet-text:before {
+	border-top:15px solid #38302a;
+}
+
+.cmsms_comments:hover {background:#fff4c1;}
+
+.post .cmsms_tags li a:before {
+	border-top:7px solid #3f342d;
+	border-left:4px solid #3f342d;
+	border-right:4px solid #3f342d;
+}
+
+.post .entry-header .cmsms_post_info .user_name, 
+.post .entry-header .cmsms_post_info .published {display:inline;}
+
+.post .entry-header .cmsms_post_info .post-categories {margin-bottom:-5px;}
+
+input[type="text"],
+textarea,
+select,
+.cmsms-form-builder select,
+.search_line input {
+	border:2px solid #ffffff;
+}
+
+.cmsms_slider_parent a.cmsms_prev_slide:before, 
+.cmsms_slider_parent a.cmsms_next_slide:before {
+	border-top:10px solid #746a61;
+	border-bottom:10px solid #746a61;
+	background:#655b50;
+}
+
+.cmsms_slider_parent ul.cmsms_slides_nav li a {background:#bcb7b3;}
+
+a,
+.tab.lpr .tabs li a,
+.tab.lpr .tabs_tab strong,
+.sitemap > li ul > li ul li > a,
+.cms_archive li a,
+.post .entry-header .cmsms_post_info .published,
+#comments .comment-body .published,
+.project ul.project_details li div {
+	color:#7a746f;
+}
+	
+#footer .social_list {margin-top:-10px;}	
+	
+ul.cmsms_category li, 
+ul.post-categories li {
+    display:block;
+	float:left;
+	margin-right:5px;
+}
+
+div.p_filter {height:1000px;}
+
+.fullwidth {
+	height:auto;
+	max-height:100%;
+}
+
+.post-categories,
+.cmsms_category {overflow:hidden;}
+
+.cmsms_category div {word-wrap:break-word;}
+
+.cmsms_post_info .user_name,
+.cmsms_post_info .published {
+	display:inline;
+}
+
+.portfolio_container.one_block .cmsms_category {display:inline-block;}
+
+.tour_box_inner {
+	position:relative;
+	z-index:10;
+}
+
+.p_filter_container ul.p_filter {height:0;}
+
+.p_filter_container:hover ul.p_filter {height:auto;}
+
+div.jp-video div.jp-interface {display:none;}
+
+div.jp-video:hover div.jp-interface {display:block;}
+
+.format-gallery .shortcode_slideshow .cmsms_slides_nav,
+.entry .shortcode_slideshow_container .cmsms_slides_nav {max-width:none;}
+
+.cmsms-form-builder .check_parent input[type="checkbox"], 
+.cmsms-form-builder .check_parent input[type="radio"] {
+	float:left;
+	top:10px;
+	left:0;
+	opacity:none;
+}
+
+.cmsms-form-builder .check_parent input[type="radio"]+label,
+.cmsms-form-builder .check_parent input[type="checkbox"]+label {background:none;}
+
+html.ie8 .portfolio_container.one_block>.fl, 
+html.ie7 .portfolio_container.one_block>.fl, 
+html.ie8 .portfolio_container.one_block>.fl>.portfolio, 
+html.ie7 .portfolio_container.one_block>.fl>.portfolio {width:100%}
+
+
+/* ---------- Tablet Portrait (Note: Design for a width more than 767px but less than 1024px) ---------- */
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	
+	.portfolio_container {margin-right:-1.9%;}
+	
+}
+
+
+/* ---------- Small Tablet (Note: Design for a width more than 540px but less than 768px) ---------- */
+
+@media only screen and (min-width: 541px) and (max-width: 767px) {
+
+	.four_blocks.portfolio_container .portfolio,
+	.one_fourth, 
+	.one_fourth.last,  
+	.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth+.one_fourth  {
+		width:100%;
+		float:none;
+		padding-right:0;
+	}
+	
+}
+
+/* ---------- Mobile (Note: Design for a width less than 541px) ---------- */
+
+@media only screen and (max-width: 540px) {
+
+	.four_blocks.portfolio_container .portfolio,
+	.one_fourth, 
+	.one_fourth.last,  
+	.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth, 
+	.one_fourth+.one_fourth+.one_fourth+.one_fourth  {
+		width:100%;
+		float:none;
+		padding-right:0;
+	}
+	
+}
+

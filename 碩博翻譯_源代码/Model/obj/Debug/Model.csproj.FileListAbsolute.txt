@@ -1,0 +1,40 @@
+D:\项目\项目\台湾项目\硕博项目\Model\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\Model\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\Model\obj\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\Model\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\Model\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\Model\obj\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\bin\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\bin\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\bin\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\Model\bin\Debug\Model.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\Model\obj\Debug\Model.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\Model\obj\Debug\Model.pdb

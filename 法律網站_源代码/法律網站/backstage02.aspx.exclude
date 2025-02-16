@@ -1,0 +1,167 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="backstage02.aspx.cs" Inherits="backstage02" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <meta http-equiv="Content-Type" content="text/html; charset=big5" /> 
+    <link rel="stylesheet" type="text/css" href="css/PubStyle.css" /> 
+</head>
+
+    <script type="text/javascript">
+      	   function CheckAllBox(obj){
+           var gvTranslatorList = document.getElementById("gvTranslatorList");
+           if(gvTranslatorList==null){  return ;}
+           var iRows = gvTranslatorList.rows.length;
+           for(var irow=2;irow<iRows+1;irow++){
+              var srow = "";
+              if(irow < 10){ 
+                srow = "0" + irow.toString();
+              } else
+              {
+                srow = irow.toString();
+              }
+              document.getElementById("gvTranslatorList_ctl"+ srow +"_cbCheck").checked = obj.checked;
+           }
+           
+	    }
+    </script>
+<body>
+    <form id="form1" runat="server">
+      
+          <table border="0" cellspacing="0" cellpadding="0" style="width: 1006px">   
+              <tr>
+              <td colspan="2" height="20" valign="top" style="width: 1069px"> 
+              <asp:Button ID="btnQuery" runat="server" Text="Query" onclick="btnQuery_Click" />
+                  <asp:Button ID="btnDel" runat="server" Text="Delete" onclick="btnDel_Click" Visible="False" />
+              </td> 
+              </tr>
+              <tr>
+              <td colspan="2" style="width: 1069px">
+                 <div id="divDataGrid" style="border-right: black 1px solid; border-top: black 1px solid; overflow: auto; border-left: black 1px solid; width:1006px; border-bottom: black 1px solid; height: 420px;">
+        <asp:GridView ID="gvUserAskPay" runat="server" CssClass="GridViewStyle" 
+                AutoGenerateColumns="False" Width="997px"
+                            Height="1px" BackColor="White" BorderColor="#999999" 
+             Font-Size="10pt" Font-Bold="False"
+             GridLines="Vertical" UseAccessibleHeader="False" 
+                            onrowcreated="gvUserAskPay_RowCreated" onrowdatabound="gvUserAskPay_RowDataBound"   >
+             
+                  <Columns > 
+                         
+                      <asp:TemplateField  HeaderText="All">
+                       <HeaderTemplate >
+                         <input type="checkbox" id="cbHeader"onclick="CheckAllBox(this)" />
+                       </HeaderTemplate>
+                        <ItemTemplate>
+                          <asp:CheckBox ID="cbCheck" runat="server" />
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="姓名">
+                        <ItemTemplate>
+                          <asp:Label ID="lblUserName" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                      <asp:TemplateField  HeaderText="TEL">
+                        <ItemTemplate>
+                          <asp:Label ID="lblTEL" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>
+                       <asp:TemplateField  HeaderText="Email">
+                        <ItemTemplate>
+                          <asp:Label ID="lblEmail" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField> 
+                       <asp:TemplateField  HeaderText="翻譯專長">
+                        <ItemTemplate>
+                          <asp:Label ID="lblTransLationSkill" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>    
+
+                       <asp:TemplateField  HeaderText="原始語種">
+                        <ItemTemplate>
+                          <asp:Label ID="lblLanguageFrom" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>     
+                       <asp:TemplateField  HeaderText="目地語言">
+                        <ItemTemplate>
+                          <asp:Label ID="lblLanguageTo" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField> 
+                      <asp:TemplateField  HeaderText="翻譯量">
+                        <ItemTemplate>
+                          <asp:Label ID="lblTranslationAmount" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="翻譯Type">
+                        <ItemTemplate>
+                          <asp:Label ID="lblTranslationType" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="是否需要排版">
+                        <ItemTemplate>
+                          <asp:Label ID="lblIsTypesetting" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="是否需要二次校稿">
+                        <ItemTemplate>
+                          <asp:Label ID="lblIsTwoProofreading" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="是否需要潤稿">
+                        <ItemTemplate>
+                          <asp:Label ID="lblIsDraft" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>  
+                       <asp:TemplateField  HeaderText="交件時間">
+                        <ItemTemplate>
+                          <asp:Label ID="lblSubmitTimee" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>                                             
+                       <asp:TemplateField  HeaderText="工作日 ">
+                        <ItemTemplate>
+                          <asp:Label ID="lblRunDays" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>                      
+                       <asp:TemplateField  HeaderText="注意事項">
+                        <ItemTemplate>
+                          <asp:Label ID="lblRemark" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>
+                       <asp:TemplateField  HeaderText="上傳檔案">
+                        <ItemTemplate>
+                          <asp:HyperLink ID="lblUpFileName" Width="98%" runat="server"></asp:HyperLink>
+                        </ItemTemplate>
+                      </asp:TemplateField>
+                       <asp:TemplateField  HeaderText="CreateDate">
+                        <ItemTemplate>
+                          <asp:Label ID="lblCreateDate" Width="98%" runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>
+                      <asp:TemplateField  Visible="False">
+                        <ItemTemplate>
+                          <asp:Label ID="lblId"  runat="server"></asp:Label>
+                        </ItemTemplate>
+                      </asp:TemplateField>
+                  </Columns>
+                            
+
+
+    <FooterStyle CssClass="GridViewFooterStyle" /> 
+    <RowStyle CssClass="GridViewRowStyle" />    
+    <SelectedRowStyle CssClass="GridViewSelectedRowStyle" /> 
+    <PagerStyle CssClass="GridViewPagerStyle" /> 
+    <AlternatingRowStyle CssClass="GridViewAlternatingRowStyle" /> 
+    <HeaderStyle CssClass="GridViewHeaderStyle" /> 
+
+              </asp:GridView> 
+     </div>
+              </td>
+              </tr>
+          </table>
+    </form>
+    <!--#include file="../newspages/downother.html"-->
+&nbsp;
+</body>
+</html>
+
+<script type="text/javascript" src="http://tw.js.webmaster.yahoo.com/477155/ystat.js"></script><noscript><a href="http://tw.webmaster.yahoo.com"><img src=http://tw.img.webmaster.yahoo.com/477155/ystats.gif></a></noscript>

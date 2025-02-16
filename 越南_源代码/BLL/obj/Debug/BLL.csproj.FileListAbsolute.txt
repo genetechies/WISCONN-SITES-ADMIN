@@ -1,0 +1,222 @@
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.dll
+D:\项目\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.dll
+F:\冯武\项目\台湾项目\硕博项目\BLL\obj\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\BLL\obj\Debug\BLL.pdb
+G:\网站开发\EN 后冠\BLL\bin\Debug\BLL.dll
+G:\网站开发\EN 后冠\BLL\bin\Debug\BLL.pdb
+G:\网站开发\EN 后冠\BLL\bin\Debug\DAL.dll
+G:\网站开发\EN 后冠\BLL\bin\Debug\Model.dll
+G:\网站开发\EN 后冠\BLL\bin\Debug\DBUtility.dll
+G:\网站开发\EN 后冠\BLL\bin\Debug\DAL.pdb
+G:\网站开发\EN 后冠\BLL\bin\Debug\Model.pdb
+G:\网站开发\EN 后冠\BLL\bin\Debug\DBUtility.pdb
+G:\网站开发\EN 后冠\BLL\obj\Debug\ResolveAssemblyReference.cache
+G:\网站开发\EN 后冠\BLL\obj\Debug\BLL.dll
+G:\网站开发\EN 后冠\BLL\obj\Debug\BLL.pdb
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\BLL.dll
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\BLL.pdb
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DAL.dll
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\Model.dll
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.dll
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DAL.pdb
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\Model.pdb
+E:\项目\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.pdb
+E:\项目\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\项目\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.dll
+E:\项目\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\母子網站\EN 后冠-CHINA\BLL\obj\Debug\BLL.pdb
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\BLL.dll
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\BLL.pdb
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\DAL.dll
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\Model.dll
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.dll
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\DAL.pdb
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\Model.pdb
+E:\项目\广州\EN 后冠-CHINA\BLL\bin\Debug\DBUtility.pdb
+E:\项目\广州\EN 后冠-CHINA\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\项目\广州\EN 后冠-CHINA\BLL\obj\Debug\BLL.dll
+E:\项目\广州\EN 后冠-CHINA\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\广州\EN 后冠-广州\BLL\obj\Debug\BLL.pdb
+E:\项目\EN 后冠-广州\BLL\bin\Debug\BLL.dll
+E:\项目\EN 后冠-广州\BLL\bin\Debug\BLL.pdb
+E:\项目\EN 后冠-广州\BLL\bin\Debug\DAL.dll
+E:\项目\EN 后冠-广州\BLL\bin\Debug\Model.dll
+E:\项目\EN 后冠-广州\BLL\bin\Debug\DBUtility.dll
+E:\项目\EN 后冠-广州\BLL\bin\Debug\DAL.pdb
+E:\项目\EN 后冠-广州\BLL\bin\Debug\Model.pdb
+E:\项目\EN 后冠-广州\BLL\bin\Debug\DBUtility.pdb
+E:\项目\EN 后冠-广州\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\项目\EN 后冠-广州\BLL\obj\Debug\BLL.dll
+E:\项目\EN 后冠-广州\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\EN 后冠-广州\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\EN 后冠-广州\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\EN 后冠-广州\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-广州\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-游戏网站\BLL\obj\Debug\BLL.pdb
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\BLL.dll
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\BLL.pdb
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\DAL.dll
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\Model.dll
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\DBUtility.dll
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\DAL.pdb
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\Model.pdb
+F:\MyProject\EN 后冠-游戏网站\BLL\bin\Debug\DBUtility.pdb
+F:\MyProject\EN 后冠-游戏网站\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\MyProject\EN 后冠-游戏网站\BLL\obj\Debug\BLL.dll
+F:\MyProject\EN 后冠-游戏网站\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-简体翻译\BLL\obj\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\BLL.pdb
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\DAL.dll
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\Model.dll
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\DBUtility.dll
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\DAL.pdb
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\Model.pdb
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\bin\Debug\DBUtility.pdb
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\obj\Debug\BLL.dll
+E:\MyProject\后冠\EN 后冠-法律網站\BLL\obj\Debug\BLL.pdb
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\BLL.dll
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\BLL.pdb
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\DAL.dll
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\Model.dll
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\DBUtility.dll
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\DAL.pdb
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\Model.pdb
+C:\Users\rg\web\翻譯網站\法律網站\BLL\bin\Debug\DBUtility.pdb
+C:\Users\rg\web\翻譯網站\法律網站\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\rg\web\翻譯網站\法律網站\BLL\obj\Debug\BLL.dll
+C:\Users\rg\web\翻譯網站\法律網站\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\越南\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CrownsTranslation">
+</Property><Property Name="解决方案文件" Value="G:\网站开发\EN\CrownsTranslation.sln">
+</Property><Property Name="用户选项文件" Value="G:\网站开发\EN\CrownsTranslation.suo">
+</Property><Property Name="Date" Value="2012年12月13日">
+</Property><Property Name="Time" Value="21:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CrownsTranslation.sln" Description="文件已成功备份为 G:\网站开发\EN\Backup\CrownsTranslation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CrownsTranslation.suo" Description="文件已成功备份为 G:\网站开发\EN\Backup\CrownsTranslation.suo">
+</Event><Event ErrorLevel="1" Project="EN" Source="..\EN" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="1" Project="DAL" Source="..\DAL\DAL.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\DAL.csproj" Description="项目文件已成功备份为 G:\网站开发\EN\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\DAL.csproj.user" Description="项目用户文件成功备份为 G:\网站开发\EN\Backup\DAL\DAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\guoclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\guoclass.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\guopic.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\guopic.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\linyuclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\linyuclass.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\linyuxinxi.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\linyuxinxi.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\Manager.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\Manager.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\NewsClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\NewsClass.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\newsdata.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\newsdata.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\PageClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\PageClass.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\Right.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\Right.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\sysconfig.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\sysconfig.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\TranslatorList.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\TranslatorList.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\TransZone.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\TransZone.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\XunJia.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\XunJia.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\yingpin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\yingpin.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\zhaopin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\zhaopin.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\TransTeam.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DAL\TransTeam.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="..\DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Model" Source="..\Model\Model.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Model.csproj" Description="项目文件已成功备份为 G:\网站开发\EN\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Model.csproj.user" Description="项目用户文件成功备份为 G:\网站开发\EN\Backup\Model\Model.csproj.user">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\guoclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\guoclass.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\guopic.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\guopic.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\linyuclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\linyuclass.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\linyuxinxi.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\linyuxinxi.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Manager.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\Manager.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\NewsClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\NewsClass.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\newsdata.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\newsdata.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\PageClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\PageClass.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Right.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\Right.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\sysconfig.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\sysconfig.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\TranslatorList.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\TranslatorList.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\XunJia.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\XunJia.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\yingpin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\yingpin.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\zhaopin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\zhaopin.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\TransTeam.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Model\TransTeam.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="..\Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Helper" Source="..\Helper\Helper.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\Helper.csproj" Description="项目文件已成功备份为 G:\网站开发\EN\Backup\Helper\Helper.csproj">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\AutoThumb.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Helper\AutoThumb.cs">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\CommonFunction.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Helper\CommonFunction.cs">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\MessageBox.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Helper\MessageBox.cs">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\MyTool.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Helper\MyTool.cs">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\Helper\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\Helper.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Helper" Source="..\Helper\Helper.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="DBUtility" Source="..\DBUtility\DBUtility.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 G:\网站开发\EN\Backup\DBUtility\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\DataAccess.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DBUtility\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\DbHelperOledb.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DBUtility\DbHelperOledb.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DBUtility\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\PubConstant.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\DBUtility\PubConstant.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="..\DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="BLL" Source="..\BLL\BLL.csproj" Description="警告: 正将项目文件备份到与原始解决方案相对路径不同的相对路径中。文件夹层次结构上的差异可能会导致在打开或生成备份的解决方案和项目时出现问题。">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\BLL.csproj" Description="项目文件已成功备份为 G:\网站开发\EN\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\BLL.csproj.user" Description="项目用户文件成功备份为 G:\网站开发\EN\Backup\BLL\BLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\guoclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\guoclass.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\guopic.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\guopic.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\linyuclass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\linyuclass.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\linyuxinxi.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\linyuxinxi.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\Manager.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\Manager.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\NewsClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\NewsClass.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\newsdata.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\newsdata.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\PageClass.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\PageClass.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\Right.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\Right.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\sysconfig.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\sysconfig.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\TranslatorList.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\TranslatorList.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\TransZone.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\TransZone.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\XunJia.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\XunJia.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\yingpin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\yingpin.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\zhaopin.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\zhaopin.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\TransTeam.cs" Description="文件已成功备份为 G:\网站开发\EN\Backup\BLL\TransTeam.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="..\BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CrownsTranslation.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="CrownsTranslation.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="..\DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="..\Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Helper" Source="..\Helper\Helper.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="..\DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="BLL" Source="..\BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

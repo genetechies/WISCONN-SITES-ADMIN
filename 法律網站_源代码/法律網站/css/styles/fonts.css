@@ -1,0 +1,380 @@
+/**
+ * @package Site Template
+ * @subpackage Magique HTML
+ * @since Magique 1.0
+ * 
+ * Site Template Fonts & Colors
+ * Created by CMSMasters
+ * 
+ */
+ 
+/* Fonts */
+
+body, 
+li p,
+input[type="submit"],
+.sitemap > li ul > li ul li > a {font:12px/18px Arial, Geneva, Helvetica, sans-serif;}
+
+.sitemap > li ul > li ul li > a {text-transform:none;}
+
+h1 {font:18px/24px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h1 {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+h2,
+.sitemap > li > a {font:16px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h2,
+.sitemap > li > a {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+h3,
+.widget_portfolio_link,
+.related_posts_content .one_half p {font:14px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h3,
+.widget_portfolio_link,
+.related_posts_content .one_half p {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+h4 {font:14px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h4 {
+	font-weight:bold;
+	text-transform:uppercase;
+	font-style:italic;
+}
+
+h5,
+.tog,
+.tabs li a,
+.tour li a,
+.skill_item_colored_wrap,
+.sitemap > li ul > li > a,
+.post .cmsms_more,
+.entry .project_navi span a {font:12px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h5,
+.tog,
+.tabs li a,
+.tour li a,
+.skill_item_colored_wrap,
+.sitemap > li ul > li > a,
+.post .cmsms_more,
+.entry .project_navi span a {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+h6,
+.table thead th,
+.table tfoot th {font:11px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+h6,
+.table thead th,
+.table tfoot th {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+li {line-height:24px;}
+
+li p,
+li a,
+li abbr,
+li small {line-height:18px;}
+
+q, 
+blockquote,
+.format-quote .entry-title,
+q:before,
+blockquote:before,
+.post.format-aside .entry-content {font:14px/24px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+q, 
+blockquote,
+q:before,
+blockquote:before,
+.format-quote .entry-title,
+.post.format-aside .entry-content {
+	font-weight:bold;
+	font-style:italic;
+}
+
+q:before, 
+blockquote:before {
+	font-size:30px;
+	line-height:1em;
+	font-weight:normal;
+}
+
+code {font:12px/18px Arial, Geneva, Helvetica, sans-serif;}
+
+small,
+small a,
+abbr,
+abbr a,
+.tab.lpr .tabs li a,
+.tab.lpr .tabs_tab a,
+.tab.lpr .tabs_tab abbr,
+.tab.lpr .tabs_tab strong,
+.cmsms_category li a,
+.post .entry-header .cmsms_post_info,
+.post .entry-header .cmsms_post_info .user_name,
+.post .entry-header .cmsms_post_info .published,
+.post .entry-header .cmsms_post_info .post-categories,
+.post .cmsms_tags li a,
+.post.format-quote .entry-content,
+#comments .comment-body .published,
+.comment-body .cmsms-edit,
+.comment-body .comment-edit-link,
+.project ul.project_details li span.fl,
+.project ul.project_details li div {font:10px/18px Arial, Geneva, Helvetica, sans-serif;}
+
+input,
+textarea,
+select,
+option,
+.cmsms-form-builder .check_parent input[type="checkbox"]+label,
+.cmsms-form-builder .check_parent input[type="radio"]+label {font:12px/18px Arial, Geneva, Helvetica, sans-serif;}
+
+#navigation > li > a,
+#navigation > li.current_page_item > a,
+#navigation > li.current_page_ancestor > a,
+#navigation > li.current-menu-ancestor > a,
+#navigation > li:hover > a {font:11px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+#navigation > li > a,
+#navigation > li.current_page_item > a,
+#navigation > li.current_page_ancestor > a,
+#navigation > li.current-menu-ancestor > a,
+#navigation > li:hover > a {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+#navigation ul li a {font:11px/18px "Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+#navigation ul li a {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+#slider h1 {
+	font-size:31px;
+	line-height:36px;
+}
+
+#slider,
+#slider a,
+#slider h6 {
+	font-size:15px;
+	line-height:18px;
+}
+
+span.dropcap,
+span.dropcap2,
+.pricingtable .title,
+.pricingtable .currency,
+.pricingtable .price,
+.pricingtable .period,
+.pricingtable .coins,
+ul.p_filter li a {font-family:"Open Sans", Arial, Geneva, Helvetica, sans-serif;}
+
+span.dropcap,
+span.dropcap2,
+.pricingtable .title,
+.pricingtable .currency,
+.pricingtable .price,
+.pricingtable .period,
+.pricingtable .coins,
+ul.p_filter li a {
+	font-weight:bold;
+}
+
+
+/* Colors */
+
+body,
+.project ul.project_details li.published div {
+	color:#e0dfde;
+}
+
+a,
+.tab.lpr .tabs li a,
+.tab.lpr .tabs_tab strong,
+.sitemap > li ul > li ul li > a,
+.cms_archive li a,
+.post .entry-header .cmsms_post_info .published,
+#comments .comment-body .published,
+.project ul.project_details li div {
+	color:rgba(255, 255, 255, .4);
+}
+
+.widget_portfolio_link,
+.portfolio_inner .entry-title a,
+.tour li a,
+.skill_item_colored_wrap > span span,
+.sitemap > li > a,
+.sitemap > li ul > li > a,
+ul.p_filter li a:hover,
+ul.p_filter li.current a,
+.post .entry-header .entry-title a:hover,
+.post .cmsms_more,
+.entry .project_navi span a,
+.related_posts_content .one_half p a,
+.tog,
+.tabs li a {
+	color:#fff4c1;
+}
+
+a:hover,
+.tab.lpr .tabs li a:hover,
+.tab.lpr .tabs li a.current,
+.widget_portfolio_link:hover,
+.portfolio_inner .entry-title a:hover,
+.tour li a:hover,
+.tour li.current a,
+.tour_box_inner h1,
+.tour_box_inner h2,
+.tour_box_inner h3,
+.tour_box_inner h4,
+.tour_box_inner h5,
+.tour_box_inner h6,
+.sitemap li a:hover,
+.sitemap > li > a:hover,
+.sitemap > li ul > li ul li > a:hover,
+.cms_archive li,
+.cms_archive li a:hover,
+.sitemap > li ul > li > a:hover,
+ul.p_filter li a,
+.post .cmsms_more:hover,
+.entry .project_navi span a:hover,
+.wrap_author_content > h3,
+.related_posts_content .one_half p a:hover,
+.tog:hover,
+.tog.current,
+.tabs li a.current,
+.tabs li a:hover,
+.post .entry-header .entry-title a,
+.post .entry-header .entry-title {
+	color:#ffffff;
+}
+
+h1 {color:#ffffff;}
+
+h2 {color:#ffffff;}
+
+h3 {color:#ffffff;}
+
+h4 {color:#ffffff;}
+
+h5 {color:#ffffff;}
+
+h6 {color:#ffffff;}
+
+#navigation li > a {
+	color:#ffffff;
+}
+
+#navigation li.current_page_item > a,
+#navigation li.current_page_ancestor > a,
+#navigation li.current-menu-ancestor > a,
+#navigation li:hover > a:hover, 
+#navigation li:hover > a {
+	color:#ffffff;
+}
+
+#navigation li li > a {
+	color:#ffffff;
+}
+
+#navigation li li.current_page_item > a,
+#navigation li li.current_page_ancestor > a,
+#navigation li li.current-menu-ancestor > a,
+#navigation li li:hover > a:hover, 
+#navigation ul li:hover > a {
+	color:#fff4c1;
+}
+
+q, 
+blockquote,
+span.dropcap,
+span.dropcap2,
+.table thead th,
+.table tfoot th {
+	color:#ffffff;
+}
+
+code {
+	color:#e0dfde;
+}
+
+small, 
+abbr {
+	color:#e0dfde;
+}
+
+input, 
+textarea, 
+select, 
+option, 
+.cmsms-form-builder .check_parent input[type="checkbox"]+label, 
+.cmsms-form-builder .check_parent input[type="radio"]+label {
+	color:#e0dfde;
+}
+
+.pricingtable .price,
+.color2 {
+	color:#f5a615;
+}
+
+.cmsms_content_slider_parent ul.cmsms_slides_nav li a {
+	background-color:#ffffff;
+}
+
+.cmsms_content_slider_parent ul.cmsms_slides_nav li a:hover,
+.cmsms_content_slider_parent ul.cmsms_slides_nav li.active a,
+#slide_top,
+.cmsms_comments:hover,
+.resp_navigation {
+	background-color:#fff4c1;
+}
+
+span.dropcap2,
+.comment-reply-link,
+.button,
+.button_medium,
+.button_large,
+.cmsmsLike:hover,
+.cmsmsLike.active,
+.cmsms_plus_inner,
+a:hover span.image_rollover,
+.p_sort .button:hover,
+a.p_cat_filter:hover,
+.cmsms_post_img {
+	background-color:#f5a615;
+}
+
+code {
+	border-top-color:#f5a615;
+}
+
+input[type="text"]:focus,
+textarea:focus,
+select:focus,
+option,
+.post .cmsms_tags li a:hover:before,
+.related_posts_content a img {
+	border-color:#fff4c1;
+}
+
+.cmsmsLike {background-color:#cccccc;}
+

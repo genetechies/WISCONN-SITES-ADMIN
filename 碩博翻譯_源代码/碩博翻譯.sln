@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{842F456F-D823-435F-87C0-066E048149C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{098CF080-75FB-41EC-9950-5B6C572D31D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBUtility", "DBUtility\DBUtility.csproj", "{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helper", "Helper\Helper.csproj", "{029F7E2B-667C-4DF4-85D1-7D7547B7C221}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "碩博翻譯(1)", "碩博翻譯\", "{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{842f456f-d823-435f-87c0-066e048149c1}|BLL.dll;{098cf080-75fb-41ec-9950-5b6c572d31d0}|DAL.dll;{d9ec3342-62b6-4b17-af86-c98eedb98d40}|DBUtility.dll;{029f7e2b-667c-4df4-85d1-7d7547b7c221}|Helper.dll;{d5cea1ee-1fd8-4289-804f-a95ae28dbb12}|Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59858"
+		Debug.AspNetCompiler.PhysicalPath = "碩博翻譯\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59858\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59858"
+		Release.AspNetCompiler.PhysicalPath = "碩博翻譯\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59858\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59858"
+		SlnRelativePath = "碩博翻譯\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842F456F-D823-435F-87C0-066E048149C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842F456F-D823-435F-87C0-066E048149C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842F456F-D823-435F-87C0-066E048149C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842F456F-D823-435F-87C0-066E048149C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098CF080-75FB-41EC-9950-5B6C572D31D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098CF080-75FB-41EC-9950-5B6C572D31D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098CF080-75FB-41EC-9950-5B6C572D31D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098CF080-75FB-41EC-9950-5B6C572D31D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EC3342-62B6-4B17-AF86-C98EEDB98D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029F7E2B-667C-4DF4-85D1-7D7547B7C221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029F7E2B-667C-4DF4-85D1-7D7547B7C221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029F7E2B-667C-4DF4-85D1-7D7547B7C221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029F7E2B-667C-4DF4-85D1-7D7547B7C221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CEA1EE-1FD8-4289-804F-A95AE28DBB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20F8203-0F37-42CB-8CF0-F68E09F5B4F9}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19824863-A059-47C7-ABAB-658CA39EC6C5}
+	EndGlobalSection
+EndGlobal

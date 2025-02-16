@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\products-sublist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:products-sublist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\products-list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:products-list.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\products-sublist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:products-sublist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\app_code\\dll\\product(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:app_code\\dll\\product(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\ueditor\\net\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\ueditor\\net\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\portfolio-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:portfolio-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\products-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:products-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:portfolio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:portfolio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\app_code\\dll\\newsclass(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:app_code\\dll\\newsclass(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\manage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:header.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\products-list.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:products-list.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\product\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\product\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\app_code\\dll\\product(2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:app_code\\dll\\product(2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\edit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\admindanny\\news_class\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D3AAFD54-3CF0-42BB-BBC2-AA008BCD9E15}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C|solutionrelative:admindanny\\news_class\\edit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products-sublist.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-sublist.aspx.cs",
+              "RelativeDocumentMoniker": "Products-sublist.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-sublist.aspx.cs",
+              "RelativeToolTip": "Products-sublist.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:54:39.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products-sublist.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-sublist.aspx",
+              "RelativeDocumentMoniker": "Products-sublist.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-sublist.aspx",
+              "RelativeToolTip": "Products-sublist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T05:54:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwHUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-12T04:39:19.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News\\Edit.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\News\\Edit.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News\\Edit.aspx",
+              "RelativeToolTip": "Admindanny\\News\\Edit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T10:53:03.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manage.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Manage.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Manage.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Manage.aspx",
+              "RelativeToolTip": "Admindanny\\Product\\Manage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T05:17:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Manage.aspx.cs",
+              "RelativeToolTip": "Admindanny\\Product\\Manage.aspx.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAvwPwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:18:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product(1).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\Product(1).cs",
+              "RelativeDocumentMoniker": "App_Code\\dll\\Product(1).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\Product(1).cs",
+              "RelativeToolTip": "App_Code\\dll\\Product(1).cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAnwFIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:31:55.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "Content\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Content\\css\\style.css",
+              "RelativeToolTip": "Content\\css\\style.css",
+              "ViewState": "AQIAAFhAAAAAAAAAAAAAAG9AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-08T05:58:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products-list.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-list.aspx",
+              "RelativeDocumentMoniker": "Products-list.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-list.aspx",
+              "RelativeToolTip": "Products-list.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T05:43:51.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Add.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Add.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Add.aspx.cs",
+              "RelativeToolTip": "Admindanny\\News_Class\\Add.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:07:23.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Add.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Add.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Add.aspx",
+              "RelativeToolTip": "Admindanny\\News_Class\\Add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T09:04:33.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Products-detail.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-detail.aspx",
+              "RelativeDocumentMoniker": "Products-detail.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-detail.aspx",
+              "RelativeToolTip": "Products-detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T10:47:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\News\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News\\Edit.aspx.cs",
+              "RelativeToolTip": "Admindanny\\News\\Edit.aspx.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwD8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:53:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\ueditor\\net\\config.json",
+              "RelativeDocumentMoniker": "Admindanny\\ueditor\\net\\config.json",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\ueditor\\net\\config.json",
+              "RelativeToolTip": "Admindanny\\ueditor\\net\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T11:16:29.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Manage.aspx.cs",
+              "RelativeToolTip": "Admindanny\\News_Class\\Manage.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:20:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Portfolio-detail.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio-detail.aspx",
+              "RelativeDocumentMoniker": "Portfolio-detail.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio-detail.aspx",
+              "RelativeToolTip": "Portfolio-detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T04:23:02.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewsClass(1).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\NewsClass(1).cs",
+              "RelativeDocumentMoniker": "App_Code\\dll\\NewsClass(1).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\NewsClass(1).cs",
+              "RelativeToolTip": "App_Code\\dll\\NewsClass(1).cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:09:26.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Portfolio.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio.aspx",
+              "RelativeDocumentMoniker": "Portfolio.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio.aspx",
+              "RelativeToolTip": "Portfolio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T10:15:08.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Add.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Add.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Add.aspx.cs",
+              "RelativeToolTip": "Admindanny\\Product\\Add.aspx.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAYwDoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:46:51.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Portfolio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio.aspx.cs",
+              "RelativeDocumentMoniker": "Portfolio.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Portfolio.aspx.cs",
+              "RelativeToolTip": "Portfolio.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vzQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:20:01.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Manage.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Manage.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Manage.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Manage.aspx",
+              "RelativeToolTip": "Admindanny\\News_Class\\Manage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T07:19:46.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Products-list.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-list.aspx.cs",
+              "RelativeDocumentMoniker": "Products-list.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Products-list.aspx.cs",
+              "RelativeToolTip": "Products-list.aspx.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwFEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:45:42.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Add.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Add.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Add.aspx",
+              "RelativeToolTip": "Admindanny\\Product\\Add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T06:46:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Edit.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Edit.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Edit.aspx",
+              "RelativeToolTip": "Admindanny\\Product\\Edit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T05:09:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Header.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Header.ascx",
+              "RelativeDocumentMoniker": "Header.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Header.ascx",
+              "RelativeToolTip": "Header.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-07T10:27:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product(2).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\Product(2).cs",
+              "RelativeDocumentMoniker": "App_Code\\dll\\Product(2).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\App_Code\\dll\\Product(2).cs",
+              "RelativeToolTip": "App_Code\\dll\\Product(2).cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:11:27.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\Product\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\Product\\Edit.aspx.cs",
+              "RelativeToolTip": "Admindanny\\Product\\Edit.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:11:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Edit.aspx.cs",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Edit.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Edit.aspx.cs",
+              "RelativeToolTip": "Admindanny\\News_Class\\Edit.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:14:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Edit.aspx",
+              "RelativeDocumentMoniker": "Admindanny\\News_Class\\Edit.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u667A\u5B9C\\Admindanny\\News_Class\\Edit.aspx",
+              "RelativeToolTip": "Admindanny\\News_Class\\Edit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-07T09:14:43.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

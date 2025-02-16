@@ -1,0 +1,90 @@
+D:\项目\项目\台湾项目\硕博项目\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\硕博项目\DAL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\硕博项目\DAL\obj\Debug\DAL.dll
+D:\项目\项目\台湾项目\硕博项目\DAL\obj\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\硕博项目\DAL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\硕博项目\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\硕博项目\DAL\obj\Debug\DAL.dll
+F:\冯武\项目\台湾项目\硕博项目\DAL\obj\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DAL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DAL.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DBUtility.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\Model.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\Model.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DBUtility.pdb
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\DAL.dll
+F:\冯武\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\DAL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DAL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DAL.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DBUtility.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\Model.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\Model.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\bin\Debug\DBUtility.pdb
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\DAL.dll
+D:\项目\项目\台湾项目\CrownsTranslation_project\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\fr\webtest\CrownsTranslation_project\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\jw\web\CrownsTranslation\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\fr\web\CrownsTranslation\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\si\web\BIG 后冠\CrownsTranslation  要調整的繁體網站\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\rg\web\CrownsTranslation\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\rg\web\EN  ACCESS\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9sql\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-informations.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|solutionrelative:dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-detail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\japanese-houguan-translation-index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\model\\xunjia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\xunjia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\app\\online.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\app\\online.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\model\\guoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\guoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\adminaspx\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\model\\linyuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\linyuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\lingyu_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\adminaspx\\lingyu_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9925C989-EEDE-4956-8C38-08E4A3BA212A}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587|solutionrelative:\u65E5\u6587\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\dal\\dal_disableip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|solutionrelative:dal\\dal_disableip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}|DBUtility\\DBUtility.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\dbutility\\dbhelperoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566BA81F-B0D6-49A9-8A40-1943D6D63EA0}|DBUtility\\DBUtility.csproj|solutionrelative:dbutility\\dbhelperoledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "japanese-houguan-translation-informations.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-informations.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:50:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "japanese-houguan-translation-informations.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-informations.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-informations.aspx",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-informations.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:50:15.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "japanese-houguan-translation-detail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-detail.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwC0AAAC3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:49:57.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "japanese-houguan-translation-detail.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-detail.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-detail.aspx",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-detail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:49:14.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "japanese-houguan-translation-index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-index.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:48:23.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\Web.config",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\Web.config",
+              "RelativeToolTip": "\u65E5\u6587\\Web.config",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-05T07:59:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DAL\\NewsClass.cs",
+              "RelativeDocumentMoniker": "DAL\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DAL\\NewsClass.cs",
+              "RelativeToolTip": "DAL\\NewsClass.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAEwOoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:52:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "japanese-houguan-translation-index.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\japanese-houguan-translation-index.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\japanese-houguan-translation-index.aspx",
+              "RelativeToolTip": "\u65E5\u6587\\japanese-houguan-translation-index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T08:48:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XunJia.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\XunJia.cs",
+              "RelativeDocumentMoniker": "Model\\XunJia.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\XunJia.cs",
+              "RelativeToolTip": "Model\\XunJia.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwJkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:36:36.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "guoclass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\guoclass.cs",
+              "RelativeDocumentMoniker": "Model\\guoclass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\guoclass.cs",
+              "RelativeToolTip": "Model\\guoclass.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvycAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:35:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwL8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:35:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "linyuclass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\linyuclass.cs",
+              "RelativeDocumentMoniker": "Model\\linyuclass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\linyuclass.cs",
+              "RelativeToolTip": "Model\\linyuclass.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvygAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:34:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwLwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:34:47.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\NewsClass.cs",
+              "RelativeDocumentMoniker": "Model\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\Model\\NewsClass.cs",
+              "RelativeToolTip": "Model\\NewsClass.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywCwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:34:06.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAkwNUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:33:59.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dal_DisableIP.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DAL\\Dal_DisableIP.cs",
+              "RelativeDocumentMoniker": "DAL\\Dal_DisableIP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DAL\\Dal_DisableIP.cs",
+              "RelativeToolTip": "DAL\\Dal_DisableIP.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vw8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:40:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Online.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\App\\Online.aspx.cs",
+              "RelativeDocumentMoniker": "\u65E5\u6587\\App\\Online.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\\u65E5\u6587\\App\\Online.aspx.cs",
+              "RelativeToolTip": "\u65E5\u6587\\App\\Online.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:36:32.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbHelperOledb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DBUtility\\DbHelperOledb.cs",
+              "RelativeDocumentMoniker": "DBUtility\\DbHelperOledb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u65E5\u6587\\DBUtility\\DbHelperOledb.cs",
+              "RelativeToolTip": "DBUtility\\DbHelperOledb.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAQwFsBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:00:30.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

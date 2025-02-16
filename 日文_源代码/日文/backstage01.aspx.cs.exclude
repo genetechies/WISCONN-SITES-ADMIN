@@ -1,0 +1,178 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Data.OleDb;
+
+
+public partial class backstage01 : System.Web.UI.Page
+{
+    private DataView _dv;
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            if (Session["username"] == null || string.IsNullOrEmpty(Session["username"].ToString()))
+            { Response.Redirect("admlgn.aspx"); }
+
+            _dv = GetTranslatorList();
+            gvTranslatorList.DataSource = _dv;
+            gvTranslatorList.DataBind();
+        }
+
+    }
+    private DataView GetTranslatorList()
+    {
+        DataView dv = new DataView();
+        try
+        {
+            string strConnection = @"Provider=Microsoft.Jet.OleDb.4.0; Data Source=" + MapPath("App_Data/db.mdb");
+
+            OleDbConnection objConnection = new OleDbConnection(strConnection);
+
+            objConnection.Open();
+            OleDbCommand cmd = objConnection.CreateCommand();
+            cmd.CommandText = "select   *   from  TranslatorList order by id desc";
+            OleDbDataReader odr = cmd.ExecuteReader();
+            DataTable dt = new DataTable("translatorlist");
+            dt.Load(odr);
+            odr.Close();
+            dv.Table = dt;
+            objConnection.Close();
+            return dv;
+        }
+        catch (Exception ex)
+        {
+            Response.Write(ex.Message);
+            return null;
+        }
+
+    }
+    private string GetIdList()
+    {
+        if (gvTranslatorList.Rows.Count < 1) { return null; }
+        string sIdArry = "";
+        for (int i = 0; i < gvTranslatorList.Rows.Count; i++)
+        {
+            CheckBox cbCheckBox = gvTranslatorList.Rows[i].FindControl("cbCheck") as CheckBox;
+            if (cbCheckBox.Checked)
+            {
+                Label lblId = gvTranslatorList.Rows[i].FindControl("lblId") as Label;
+                if (string.IsNullOrEmpty(sIdArry))
+                {
+                    sIdArry = "'" + lblId.Text + "'";
+                }
+                else
+                {
+                    sIdArry += ",'" + lblId.Text + "'";
+                }
+            }
+        }
+        return sIdArry;
+    }
+    protected void btnQuery_Click(object sender, EventArgs e)
+    {
+        _dv = GetTranslatorList();
+        gvTranslatorList.DataSource = _dv;
+        gvTranslatorList.DataBind();
+    }
+    protected void btnDel_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            string strConnection = @"Provider=Microsoft.Jet.OleDb.4.0; Data Source=" + MapPath("App_Data/db.mdb");
+
+
+            OleDbConnection objConnection = new OleDbConnection(strConnection);
+
+            objConnection.Open();
+            OleDbCommand cmd = objConnection.CreateCommand();
+            for (int i = 0; i < gvTranslatorList.Rows.Count; i++)
+            {
+                CheckBox cbCheckBox = gvTranslatorList.Rows[i].FindControl("cbCheck") as CheckBox;
+                if (cbCheckBox.Checked)
+                {
+                    Label lblId = gvTranslatorList.Rows[i].FindControl("lblId") as Label;
+                    cmd.CommandText = "delete from  TranslatorList where id =" + lblId.Text;
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            objConnection.Close();
+
+            _dv = GetTranslatorList();
+            gvTranslatorList.DataSource = _dv;
+            gvTranslatorList.DataBind();
+        }
+        catch (Exception ex)
+        {
+            Response.Write(ex.Message);
+        }
+    }
+    protected void gvTranslatorList_RowCreated(object sender, GridViewRowEventArgs e)
+    {
+
+    }
+    protected void gvTranslatorList_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        //排除非數據行
+        if (e.Row.RowType != DataControlRowType.DataRow) { return; }
+        //顯示GridView控件
+        if (_dv == null) { return; }
+
+        #region 顯示數據
+        CheckBox cbCheck = e.Row.FindControl("cbCheck") as CheckBox;
+        Label lblUserName = e.Row.FindControl("lblUserName") as Label;
+        Label lblAge = e.Row.FindControl("lblAge") as Label;
+        Label lblSex = e.Row.FindControl("lblSex") as Label;
+        Label lblCountry = e.Row.FindControl("lblCountry") as Label;
+        Label lblWorkType = e.Row.FindControl("lblWorkType") as Label;
+        Label lblTopGraduation = e.Row.FindControl("lblTopGraduation") as Label;
+        Label lblIsLearning = e.Row.FindControl("lblIsLearning") as Label;
+        Label lblLanguage = e.Row.FindControl("lblLanguage") as Label;
+        Label lblMasterLanguage = e.Row.FindControl("lblMasterLanguage") as Label;
+        Label lblExperience = e.Row.FindControl("lblExperience") as Label;
+        Label lblSeniority = e.Row.FindControl("lblSeniority") as Label;
+        Label lblTranslationAmount = e.Row.FindControl("lblTranslationAmount") as Label;
+        Label lblTransLationSkill = e.Row.FindControl("lblTransLationSkill") as Label;
+        Label lblSoftwareSkill = e.Row.FindControl("lblSoftwareSkill") as Label;
+        Label lblTEL = e.Row.FindControl("lblTEL") as Label;
+        Label lblEmail = e.Row.FindControl("lblEmail") as Label;
+        Label lblQQ = e.Row.FindControl("lblQQ") as Label;
+        Label lblMSN = e.Row.FindControl("lblMSN") as Label;
+        Label lblCreateDate = e.Row.FindControl("lblCreateDate") as Label;
+        Label lblId = e.Row.FindControl("lblId") as Label;
+
+
+        if (lblUserName != null) { lblUserName.Text = _dv[e.Row.DataItemIndex]["UserName"].ToString(); }
+        if (lblAge != null) { lblAge.Text = _dv[e.Row.DataItemIndex]["Age"].ToString(); }
+        if (lblSex != null) { lblSex.Text = _dv[e.Row.DataItemIndex]["Sex"].ToString(); }
+        if (lblCountry != null) { lblCountry.Text = _dv[e.Row.DataItemIndex]["Country"].ToString(); }
+        if (lblWorkType != null) { lblWorkType.Text = _dv[e.Row.DataItemIndex]["WorkType"].ToString(); }
+        if (lblTopGraduation != null) { lblTopGraduation.Text = _dv[e.Row.DataItemIndex]["TopGraduation"].ToString(); }
+        if (lblIsLearning != null) { lblIsLearning.Text = _dv[e.Row.DataItemIndex]["IsLearning"].ToString(); }
+        if (lblLanguage != null) { lblLanguage.Text = _dv[e.Row.DataItemIndex]["Language"].ToString(); }
+        if (lblMasterLanguage != null) { lblMasterLanguage.Text = _dv[e.Row.DataItemIndex]["MasterLanguage"].ToString(); }
+        if (lblExperience != null) { lblExperience.Text = _dv[e.Row.DataItemIndex]["Experience"].ToString(); }
+        if (lblSeniority != null) { lblSeniority.Text = _dv[e.Row.DataItemIndex]["Seniority"].ToString(); }
+        if (lblTranslationAmount != null) { lblTranslationAmount.Text = _dv[e.Row.DataItemIndex]["TranslationAmount"].ToString(); }
+        if (lblTransLationSkill != null) { lblTransLationSkill.Text = _dv[e.Row.DataItemIndex]["TransLationSkill"].ToString(); }
+        if (lblSoftwareSkill != null) { lblSoftwareSkill.Text = _dv[e.Row.DataItemIndex]["SoftwareSkill"].ToString(); }
+        if (lblTEL != null) { lblTEL.Text = _dv[e.Row.DataItemIndex]["TEL"].ToString(); }
+        if (lblEmail != null) { lblEmail.Text = _dv[e.Row.DataItemIndex]["Email"].ToString(); }
+        if (lblQQ != null) { lblQQ.Text = _dv[e.Row.DataItemIndex]["QQ"].ToString(); }
+        if (lblMSN != null) { lblMSN.Text = _dv[e.Row.DataItemIndex]["MSN"].ToString(); }
+        if (lblCreateDate != null) { lblCreateDate.Text = _dv[e.Row.DataItemIndex]["CreateDate"].ToString(); }
+        if (lblId != null) { lblId.Text = _dv[e.Row.DataItemIndex]["ID"].ToString(); }
+
+        #endregion
+
+        e.Row.Attributes.Add("onmouseover", "c=this.style.backgroundColor;this.style.backgroundColor='#E0FFFF'");
+        e.Row.Attributes.Add("onmouseout", "this.style.backgroundColor=c");
+    }
+}

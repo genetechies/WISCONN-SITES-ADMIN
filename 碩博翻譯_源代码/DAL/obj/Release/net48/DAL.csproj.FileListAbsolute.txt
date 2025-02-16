@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\DAL.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\DAL.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\Model.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\bin\Release\net48\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\DAL\obj\Release\net48\DAL.pdb

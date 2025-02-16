@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\DAL.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\DAL.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\bin\Release\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\obj\Release\DAL.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\obj\Release\DAL.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\韓文\DAL\obj\Release\DAL.pdb

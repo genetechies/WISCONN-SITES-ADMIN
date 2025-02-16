@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\bin\Debug\net48\Model.dll
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\bin\Debug\net48\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\obj\Debug\net48\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\obj\Debug\net48\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\obj\Debug\net48\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\obj\Debug\net48\Model.dll
+C:\Users\Administrator\Documents\發包檔案\后冠翻譯\Model\obj\Debug\net48\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\bin\Debug\net48\Model.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\bin\Debug\net48\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\obj\Debug\net48\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\obj\Debug\net48\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\obj\Debug\net48\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\obj\Debug\net48\Model.dll
+C:\Users\Administrator\Documents\發包檔案\碩博翻譯\Model\obj\Debug\net48\Model.pdb

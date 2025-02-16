@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|c:\\users\\administrator\\documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9sql\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184C774D-46A7-45BD-9624-DA8C55CBE1EB}|DAL\\DAL.csproj|solutionrelative:dal\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\model\\xunjia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\xunjia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\app\\online.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\app\\online.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\model\\guoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\guoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\news_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\model\\linyuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\linyuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_class\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80485AD-1484-4AC2-B494-3F94E9297E42}|Model\\Model.csproj|solutionrelative:model\\newsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC06A8B-DEAF-4B62-93C9-F380C31D160F}|C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9|solutionrelative:\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\manage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "medical-translation-information-newsinfo.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T09:19:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "medical-translation-information.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:18:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\DAL\\NewsClass.cs",
+              "RelativeDocumentMoniker": "DAL\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\DAL\\NewsClass.cs",
+              "RelativeToolTip": "DAL\\NewsClass.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAwPIAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:17:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "medical-translation-information.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T09:16:50.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "medical-translation-index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:16:09.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Web.config",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Web.config",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\Web.config",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-05T08:04:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medical-translation-information-newsinfo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-information-newsinfo.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCwAAAC3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:20:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "medical-translation-index.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\medical-translation-index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T09:16:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XunJia.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\XunJia.cs",
+              "RelativeDocumentMoniker": "Model\\XunJia.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\XunJia.cs",
+              "RelativeToolTip": "Model\\XunJia.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAADwv5kAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:15:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Online.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\App\\Online.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\App\\Online.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\App\\Online.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\App\\Online.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:15:19.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "guoclass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\guoclass.cs",
+              "RelativeDocumentMoniker": "Model\\guoclass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\guoclass.cs",
+              "RelativeToolTip": "Model\\guoclass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:14:28.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\News_Class\\Manage.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwL8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:14:23.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "linyuclass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\linyuclass.cs",
+              "RelativeDocumentMoniker": "Model\\linyuclass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\linyuclass.cs",
+              "RelativeToolTip": "Model\\linyuclass.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:47.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\lingyu_Class\\Manage.aspx.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAkwLwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:44.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\NewsClass.cs",
+              "RelativeDocumentMoniker": "Model\\NewsClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\Model\\NewsClass.cs",
+              "RelativeToolTip": "Model\\NewsClass.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:11.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeDocumentMoniker": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\\u767C\u5305\u6A94\u6848\\\u6BCD\u5B50\u7AD9\u5C0D\u61C9SQL\u7684\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "RelativeToolTip": "\u91AB\u5B78\u7DB2\u7AD9\\adminaspx\\articleclass\\Manage.aspx.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAkwNUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:09.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

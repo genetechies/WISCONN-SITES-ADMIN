@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\Helper.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\Helper.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\DBUtility.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\DBUtility.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\bin\Release\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\obj\Release\Helper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\obj\Release\Helper.csproj.Up2Date
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\obj\Release\Helper.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\機械網站\Helper\obj\Release\Helper.pdb

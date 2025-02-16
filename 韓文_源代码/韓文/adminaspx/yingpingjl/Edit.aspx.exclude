@@ -1,0 +1,112 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Edit.aspx.cs" Inherits="Web.Admin.GuestBook.Edit" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>編輯線上詢價</title>
+    <link href="../Css.css" rel="stylesheet" type="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table class="table_main">
+       <tr  class="table_tittle">
+          <td colspan="3" ><strong>詳細內容</strong></td>
+       </tr>
+       
+       <tr>
+         <td width="18%" >聯絡人</td>
+         <td width="82%" colspan="2">
+             <asp:TextBox ID="txtUserName" runat="server" Width="100px"></asp:TextBox>
+         </td>
+       </tr>
+       <tr>
+         <td>聯絡電話</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtTelphone" runat="server" Width="200px"></asp:TextBox>
+         </td>
+       </tr>
+       <tr>
+         <td >E-mail</td>
+         <td  colspan="2">
+             <asp:TextBox ID="txtEmail" runat="server" Width="300px"></asp:TextBox>
+         </td>
+       </tr>
+        <tr>
+         <td>服務項目</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtCompanyName" runat="server" Width="400px"></asp:TextBox>
+         </td>
+       </tr>
+        
+       
+        <tr>
+         <td>公司官網</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtWebsite" runat="server" Width="300px"></asp:TextBox>
+         </td>
+       </tr>
+        <tr>
+         <td>公司地址</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtAddress" runat="server" Width="400px"></asp:TextBox>
+         </td>
+       </tr>
+       <tr>
+         <td>產業型態</td>
+         <td colspan="2" >
+             <asp:TextBox ID="txtTitle" runat="server" Width="400px" ></asp:TextBox>
+         </td>
+       </tr>
+        <tr>
+         <td>洽詢項目</td>
+         <td colspan="2">
+             <asp:CheckBox ID="cbState1" runat="server" Text="Seo網站專用空間" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState2" runat="server" Text="Seo專業網頁設計" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState3" runat="server" Text="全球搜尋引擎登錄" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState4" runat="server" Text="網站排名" />
+             <br />
+             <asp:CheckBox ID="cbState5" runat="server" Text="社群行銷" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState6" runat="server" Text="論壇行銷" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState7" runat="server" Text="部落格行銷" />&nbsp;&nbsp;&nbsp;
+             <asp:CheckBox ID="cbState8" runat="server" Text="專業行銷分析系統" />
+         </td>
+       </tr>
+        <tr>
+         <td>行銷預算</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtCharge" runat="server" Width="400px"></asp:TextBox>
+         </td>
+       </tr>
+        <tr>
+         <td>執行日期</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtRuntime" runat="server" Width="100px" ></asp:TextBox>
+         </td>
+       </tr>
+        <tr>
+         <td>IP地址</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtIpAddress" runat="server" Width="100px" ></asp:TextBox>
+         </td>
+       </tr>
+       <tr>
+         <td >詳細內容</td>
+         <td colspan="2">
+             <asp:TextBox ID="txtContent" runat="server" Width="400px" Rows="5" TextMode="multiLine" ></asp:TextBox>
+         </td>
+       </tr>
+       <tr>
+         <td >&nbsp;</td>
+         <td colspan="2">
+             <asp:Button ID="Button1" runat="server" Text="編輯"  OnClick="Sub_Click"/>&nbsp;&nbsp;&nbsp;
+             <input id="Reset1" type="reset" value="返回" onclick="history.go(-1)" />         
+         </td>
+       </tr>
+    </table>
+    </div>
+    </form>
+</body>
+</html>

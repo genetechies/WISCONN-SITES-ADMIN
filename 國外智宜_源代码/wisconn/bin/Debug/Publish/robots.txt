@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: /Admin/
+Sitemap: http://www.wisconn.com.tw/sitemap.xml

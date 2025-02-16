@@ -1,0 +1,19 @@
+body  { background:#799AE1;font:normal 12px 宋体;; 
+SCROLLBAR-FACE-COLOR: #799AE1; SCROLLBAR-HIGHLIGHT-COLOR: #799AE1; 
+SCROLLBAR-SHADOW-COLOR: #799AE1; SCROLLBAR-DARKSHADOW-COLOR: #799AE1; 
+SCROLLBAR-3DLIGHT-COLOR: #799AE1; SCROLLBAR-ARROW-COLOR: #FFFFFF;
+SCROLLBAR-TRACK-COLOR: #AABFEC;
+}
+table  { border:0px; }
+span{ font:normal 12px 宋体;}
+td span{ font:normal 12px 宋体;}
+img  { vertical-align:bottom; border:0px; }
+td a:link{font:normal 12px 宋体; color:#000000; text-decoration:none;} 
+.sec_menu td a:visited {font:normal 12px 宋体; color:#000000; text-decoration:none;}
+.sec_menu td a:hover {font:normal 12px 宋体; color:#990000; text-decoration:none;}
+.sec_menu td a:active {font:normal 12px 宋体; color:#000000; text-decoration:none;}
+.sec_menu  { border-left:1px solid white; border-right:1px solid white; border-bottom:1px solid white; overflow:hidden; background:#D6DFF7; }
+.menu_title  { }
+.menu_title span  { position:relative; top:0px; left:8px; color:#000000; font-weight:bold; }
+.menu_title2  { }
+.menu_title2 span  { position:relative; top:0px; left:8px; color:#999999; font-weight:bold; }

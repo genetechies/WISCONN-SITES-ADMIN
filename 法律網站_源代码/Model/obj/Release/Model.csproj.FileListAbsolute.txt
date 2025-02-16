@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\bin\Release\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\bin\Release\Model.pdb
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\obj\Release\Model.dll
+C:\Users\Administrator\Documents\發包檔案\母子站對應SQL的網站\法律網站\Model\obj\Release\Model.pdb

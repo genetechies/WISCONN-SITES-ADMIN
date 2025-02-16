@@ -1,0 +1,44 @@
+﻿<div id="link_list_box"><div class="content-bottom">
+<div class="service125"><a href="../related/index.aspx">Link</a></div>
+<img src="../images/line.jpg"  style="margin-left:6px;" alt=''/>
+<div style=" clear:both">&nbsp;</div>
+<div style="border:1px solid #666;width:923px; margin:0 auto;">$FriendlyName$</div>
+</div>
+
+</div><script type="text/javascript">
+ //<![CDATA[
+                var baseRows = 3;
+                function showOrHidden(obj, height) {
+                    if (obj.clientHeight < height) {
+                        obj.style.height = (parseInt(obj.style.height.replace("px", "") || obj.clientHeight) + 1) + "px";
+                        if (obj.clientHeight >= height) return;
+                    } else {
+                        obj.style.height = (parseInt(obj.style.height.replace("px", "") || obj.clientHeight) - 1) + "px";
+                        if (obj.clientHeight <= height) return;
+                    }
+                    setTimeout(function () { showOrHidden(obj, height); }, 5);
+                }
+                function setHiddenLink() {
+                    var ele = document.getElementById("link_list_box").children, di = null, baseHeight = 0;
+                    for (var i = 0; i < ele.length; i++) {
+                        di = ele[i].children[ele[i].children.length-1]; baseHeight = 0;
+                        if (di.children[0].rows.length <= baseRows) break;
+                        baseHeight = di.children[0].rows[baseRows].cells[0].offsetTop - 1;
+                        if (baseHeight <= 0) { window.setTimeout(setHiddenLink, 5); return; }
+                        di.style.overflow = "hidden"; di.style.height = baseHeight + "px";
+                        var clickEvent = (function (di, bh) {
+                            return function () {
+                                if (di.scrollHeight > di.clientHeight) showOrHidden(di, di.scrollHeight);
+                                else showOrHidden(di, bh);
+                            };
+                        })(di, baseHeight);
+                        if (di.addEventListener) {
+                            di.addEventListener("click", clickEvent, false);
+                        } else if (di.attachEvent) {
+                            di.attachEvent("onclick", clickEvent);
+                        } else di.onclick = clickEvent;
+                    }
+                }
+                setHiddenLink("link_index");
+           //]]>
+</script>

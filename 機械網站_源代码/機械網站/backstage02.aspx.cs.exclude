@@ -1,0 +1,153 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Data.OleDb;
+
+public partial class backstage02 : System.Web.UI.Page
+{
+    private DataView _dv;
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            if (Session["username"] == null || string.IsNullOrEmpty(Session["username"].ToString()))
+            { Response.Redirect("admlgn.aspx"); }
+
+            _dv = GetUserAskPayList();
+            gvUserAskPay.DataSource = _dv;
+            gvUserAskPay.DataBind();
+        }
+    }
+    private DataView GetUserAskPayList()
+    {
+        DataView dv = new DataView();
+        try
+        {
+            string strConnection = @"Provider=Microsoft.Jet.OleDb.4.0; Data Source=" + MapPath("App_Data/db.mdb");
+
+            OleDbConnection objConnection = new OleDbConnection(strConnection);
+
+            objConnection.Open();
+            OleDbCommand cmd = objConnection.CreateCommand();
+            cmd.CommandText = "select   *   from  useraskpay order by id desc";
+            OleDbDataReader odr = cmd.ExecuteReader();
+            DataTable dt = new DataTable("useraskpay");
+            dt.Load(odr);
+            odr.Close();
+            dv.Table = dt;
+            objConnection.Close();
+            return dv;
+        }
+        catch (Exception ex)
+        {
+            Response.Write(ex.Message);
+            return null;
+        }
+
+    }
+    protected void btnDel_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            string strConnection = @"Provider=Microsoft.Jet.OleDb.4.0; Data Source=" + MapPath("App_Data/db.mdb");
+
+
+            OleDbConnection objConnection = new OleDbConnection(strConnection);
+
+            objConnection.Open();
+            OleDbCommand cmd = objConnection.CreateCommand();
+            for (int i = 0; i < gvUserAskPay.Rows.Count; i++)
+            {
+                CheckBox cbCheckBox = gvUserAskPay.Rows[i].FindControl("cbCheck") as CheckBox;
+                if (cbCheckBox.Checked)
+                {
+                    Label lblId = gvUserAskPay.Rows[i].FindControl("lblId") as Label;
+                    cmd.CommandText = "delete from  useraskpay where id =" + lblId.Text;
+                    cmd.ExecuteNonQuery();
+                }
+            }
+            objConnection.Close();
+
+            _dv = GetUserAskPayList();
+            gvUserAskPay.DataSource = _dv;
+            gvUserAskPay.DataBind();
+        }
+        catch (Exception ex)
+        {
+            Response.Write(ex.Message);
+        }
+    }
+    protected void btnQuery_Click(object sender, EventArgs e)
+    {
+        _dv = GetUserAskPayList();
+        gvUserAskPay.DataSource = _dv;
+        gvUserAskPay.DataBind();
+    }
+    protected void gvUserAskPay_RowCreated(object sender, GridViewRowEventArgs e)
+    {
+
+    }
+    protected void gvUserAskPay_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        //排除非數據行
+        if (e.Row.RowType != DataControlRowType.DataRow) { return; }
+        //顯示GridView控件
+        if (_dv == null) { return; }
+
+        #region 顯示數據
+        CheckBox cbCheck = e.Row.FindControl("cbCheck") as CheckBox;
+        Label lblUserName = e.Row.FindControl("lblUserName") as Label;
+        Label lblTEL = e.Row.FindControl("lblTEL") as Label;
+        Label lblEmail = e.Row.FindControl("lblEmail") as Label;
+        Label lblTransLationSkill = e.Row.FindControl("lblTransLationSkill") as Label;
+        Label lblLanguageFrom = e.Row.FindControl("lblLanguageFrom") as Label;
+        Label lblLanguageTo = e.Row.FindControl("lblLanguageTo") as Label;
+        Label lblTranslationAmount = e.Row.FindControl("lblTranslationAmount") as Label;    
+        Label lblTranslationType = e.Row.FindControl("lblTranslationType") as Label;
+        Label lblIsTypesetting = e.Row.FindControl("lblIsTypesetting") as Label;
+        Label lblIsTwoProofreading = e.Row.FindControl("lblIsTwoProofreading") as Label;
+        Label lblIsDraft = e.Row.FindControl("lblIsDraft") as Label;
+        Label lblSubmitTimee = e.Row.FindControl("lblSubmitTimee") as Label;
+        Label lblRunDays = e.Row.FindControl("lblRunDays") as Label;
+        Label lblRemark = e.Row.FindControl("lblRemark") as Label;
+        HyperLink lblUpFileName = e.Row.FindControl("lblUpFileName") as HyperLink;
+        Label lblCreateDate = e.Row.FindControl("lblCreateDate") as Label;
+        Label lblId = e.Row.FindControl("lblId") as Label;
+
+
+        if (lblUserName != null) { lblUserName.Text = _dv[e.Row.DataItemIndex]["UserName"].ToString(); }
+        if (lblTEL != null) { lblTEL.Text = _dv[e.Row.DataItemIndex]["TEL"].ToString(); }
+        if (lblEmail != null) { lblEmail.Text = _dv[e.Row.DataItemIndex]["Email"].ToString(); }
+        if (lblTransLationSkill != null) { lblTransLationSkill.Text = _dv[e.Row.DataItemIndex]["TransLationSkill"].ToString(); }
+        if (lblLanguageFrom != null) { lblLanguageFrom.Text = _dv[e.Row.DataItemIndex]["LanguageFrom"].ToString(); }
+        if (lblLanguageTo != null) { lblLanguageTo.Text = _dv[e.Row.DataItemIndex]["LanguageTo"].ToString(); }
+        if (lblTranslationAmount != null) { lblTranslationAmount.Text = _dv[e.Row.DataItemIndex]["TranslationAmount"].ToString(); }
+        if (lblTranslationType != null) { lblTranslationType.Text = _dv[e.Row.DataItemIndex]["TranslationType"].ToString(); }
+        if (lblIsTypesetting != null) { lblIsTypesetting.Text = _dv[e.Row.DataItemIndex]["IsTypesetting"].ToString(); }
+        if (lblIsTwoProofreading != null) { lblIsTwoProofreading.Text = _dv[e.Row.DataItemIndex]["IsTwoProofreading"].ToString(); }
+        if (lblIsDraft != null) { lblIsDraft.Text = _dv[e.Row.DataItemIndex]["IsDraft"].ToString(); }
+        if (lblSubmitTimee != null) { lblRunDays.Text = _dv[e.Row.DataItemIndex]["RunDays"].ToString(); }
+        if (lblRunDays != null) { lblTranslationAmount.Text = _dv[e.Row.DataItemIndex]["TranslationAmount"].ToString(); }
+        if (lblRemark != null) { lblRemark.Text = _dv[e.Row.DataItemIndex]["Remark"].ToString(); }
+        if (lblUpFileName != null)
+        {
+            lblUpFileName.Text = _dv[e.Row.DataItemIndex]["UpFileName"].ToString();
+            lblUpFileName.NavigateUrl = "~/online/UpLoadFiles/" + _dv[e.Row.DataItemIndex]["UpFileName"].ToString();
+            lblUpFileName.ForeColor = System.Drawing.Color.FromName("#000000");
+        }
+        if (lblCreateDate != null) { lblCreateDate.Text = _dv[e.Row.DataItemIndex]["CreateDate"].ToString(); }
+        if (lblId != null) { lblId.Text = _dv[e.Row.DataItemIndex]["ID"].ToString(); }
+
+        #endregion
+
+        e.Row.Attributes.Add("onmouseover", "c=this.style.backgroundColor;this.style.backgroundColor='#E0FFFF'");
+        e.Row.Attributes.Add("onmouseout", "this.style.backgroundColor=c");
+    }
+}

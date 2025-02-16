@@ -1,0 +1,40 @@
+.grid{
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+.grid-cell-1{
+	flex-shrink: 1;
+	flex-grow: 1;
+}
+.grid-cell-3{
+	flex-shrink:1;
+	flex-grow: 3;
+}
+
+div[class^="grid-cell"]{
+	padding: 10px;
+	
+}
+nav{
+	display: block;
+	margin: 10px;
+}
+.box-green{
+	background-color:white;
+	min-height: 50px;
+	text-align: center;
+	width: 100%;
+	line-height: 50px;
+}
+.box-red{
+	color: black;
+	background-color:#BCBCBC;
+	min-height: 50px;
+	text-align:center;
+	width: 100%;
+	line-height: 50px;
+}
+.box-w{
+	padding: 20px;
+}
